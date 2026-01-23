@@ -16,7 +16,7 @@ from selenium.webdriver.common.keys import Keys
 
 # --- CONFIGURATION ---
 CSV_FILENAME = "sp500_transcripts_history.csv"
-TARGET_YEARS = ["2025", "2024"]
+TARGET_YEARS = ["2025", "2024", "2023"]
 QUARTERS = ["Q1", "Q2", "Q3", "Q4"]
 
 # --- CONFIGURATION DE LA VITESSE (Timing) ---
