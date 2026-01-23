@@ -1,7 +1,6 @@
 """
-Script de scraping The Motley Fool - Version Production S&P 500.
-Fonctionnalités : Multi-Années, Anti-Popup, Human Scroll, Video Killer.
-Modification : Gestion centralisée de la vitesse.
+Script de scraping The Motley Fool - Version Production S&P 500 (Smart IDs).
+Optimisation : Utilise le TICKER (ex: AAPL) pour éviter les doublons si le nom change.
 """
 
 import time
@@ -21,48 +20,45 @@ TARGET_YEARS = ["2025", "2024"]
 QUARTERS = ["Q1", "Q2", "Q3", "Q4"]
 
 # --- CONFIGURATION DE LA VITESSE (Timing) ---
-# "FAST"     : Pour tester le code (Risque de blocage élevé sur la durée)
-# "MARATHON" : Pour tourner 24h/24 pendant 3 jours (Sécurisé)
 MODE = "MARATHON" 
 
 SPEED_PROFILES = {
     "FAST": {
-        "google_search": (2, 3),   # Pause avant/après recherche
-        "page_load": (3, 5),       # Temps de chargement page
-        "inter_request": (5, 8)    # Pause entre deux entreprises
+        "google_search": (2, 3),
+        "page_load": (3, 5),
+        "inter_request": (5, 8)
     },
     "MARATHON": {
-        "google_search": (4, 7),   # On prend le temps de "taper"
-        "page_load": (5, 10),      # On laisse la page charger tranquillement
-        "inter_request": (15, 35)  # Longue pause pour refroidir l'anti-bot
+        "google_search": (4, 7),
+        "page_load": (5, 10),
+        "inter_request": (15, 35)
     }
 }
 
-# On charge les délais du mode choisi
 DELAYS = SPEED_PROFILES[MODE]
 
-# Liste S&P 500 "Blue Chips"
+# Liste S&P 500 Nettoyée
 COMPANIES = [
     # --- TECH & GAFAM ---
-    "Apple Inc. (AAPL)", "Microsoft Corporation (MSFT)", "Nvidia Corporation (NVDA)",
-    "Alphabet Inc. (GOOGL)", "Amazon.com Inc. (AMZN)", "Meta Platforms (META)",
-    "Tesla Inc. (TSLA)", "Broadcom Inc. (AVGO)", "Adobe Inc. (ADBE)",
-    "Salesforce (CRM)", "Cisco Systems (CSCO)", "Oracle Corporation (ORCL)",
-    "Intel Corporation (INTC)", "AMD (AMD)", "Netflix (NFLX)", "IBM (IBM)",
+    "Apple (AAPL)", "Microsoft (MSFT)", "Nvidia (NVDA)",
+    "Alphabet (GOOGL)", "Amazon (AMZN)", "Meta (META)",
+    "Tesla (TSLA)", "Broadcom (AVGO)", "Adobe (ADBE)",
+    "Salesforce (CRM)", "Cisco (CSCO)", "Oracle (ORCL)",
+    "Intel (INTC)", "AMD (AMD)", "Netflix (NFLX)", "IBM (IBM)",
     # --- FINANCE ---
-    "Berkshire Hathaway (BRK-B)", "JPMorgan Chase (JPM)", "Visa Inc. (V)",
+    "Berkshire Hathaway (BRK-B)", "JPMorgan Chase (JPM)", "Visa (V)",
     "Mastercard (MA)", "Bank of America (BAC)", "Wells Fargo (WFC)",
     "Goldman Sachs (GS)", "Morgan Stanley (MS)", "American Express (AXP)",
     # --- CONSO ---
-    "Walmart (WMT)", "Procter & Gamble (PG)", "Costco Wholesale (COST)",
-    "Coca-Cola Company (KO)", "PepsiCo (PEP)", "McDonald's (MCD)",
-    "Nike (NKE)", "Starbucks (SBUX)", "Home Depot (HD)", "Walt Disney (DIS)",
+    "Walmart (WMT)", "Procter & Gamble (PG)", "Costco (COST)",
+    "Coca-Cola (KO)", "PepsiCo (PEP)", "McDonald's (MCD)",
+    "Nike (NKE)", "Starbucks (SBUX)", "Home Depot (HD)", "Disney (DIS)",
     # --- SANTÉ ---
-    "Eli Lilly (LLY)", "UnitedHealth Group (UNH)", "Johnson & Johnson (JNJ)",
-    "Merck & Co. (MRK)", "AbbVie (ABBV)", "Pfizer (PFE)",
-    "Thermo Fisher Scientific (TMO)", "Abbott Laboratories (ABT)",
+    "Eli Lilly (LLY)", "UnitedHealth (UNH)", "Johnson & Johnson (JNJ)",
+    "Merck (MRK)", "AbbVie (ABBV)", "Pfizer (PFE)",
+    "Thermo Fisher (TMO)", "Abbott (ABT)",
     # --- INDUSTRIE & ÉNERGIE ---
-    "Exxon Mobil (XOM)", "Chevron (CVX)", "General Electric (GE)",
+    "ExxonMobil (XOM)", "Chevron (CVX)", "General Electric (GE)",
     "Caterpillar (CAT)", "Boeing (BA)", "Lockheed Martin (LMT)", "Honeywell (HON)"
 ]
 
@@ -121,36 +117,76 @@ def close_marketing_popup(driver):
     return False
 
 def check_for_captcha(driver):
-    """Détecte les blocages via le TITRE."""
+    """Détecte les blocages Google (Unusual Traffic) et Cloudflare."""
     try:
+        page_source = driver.page_source.lower()
         page_title = driver.title.lower()
-        block_words = ["just a moment", "attention required", "security check", "access denied", "verify you are human"]
         
-        if any(x in page_title for x in block_words):
-            print(f"\n[ALERTE] Captcha détecté (Titre: {driver.title})")
-            input(">>> Résolvez le CAPTCHA manuellement puis appuyez sur ENTREE <<<")
+        # --- BLOCAGE GOOGLE ---
+        google_triggers = ["trafic exceptionnel", "unusual traffic", "nos systèmes ont détecté", "id=\"captcha-form\"", "g-recaptcha"]
+        if "google" in driver.current_url and any(trigger in page_source for trigger in google_triggers):
+             if "id=\"search\"" not in page_source and "class=\"g\"" not in page_source:
+                print("\n" + "!"*60 + "\n[ALERTE] BLOCAGE GOOGLE DÉTECTÉ (Trafic Exceptionnel)\n" + "!"*60)
+                print('\a') 
+                input(">>> Résolvez le CAPTCHA, attendez les résultats, puis appuyez sur ENTREE <<<")
+                time.sleep(5)
+                return True
+
+        # --- BLOCAGE CLOUDFLARE ---
+        cloudflare_triggers = ["just a moment", "attention required", "security check", "access denied", "verify you are human"]
+        if any(x in page_title for x in cloudflare_triggers):
+            print("\n[ALERTE] Captcha Site Web détecté.")
+            input(">>> Résolvez le CAPTCHA puis appuyez sur ENTREE <<<")
             time.sleep(2)
             return True
             
         h1s = [h.text.lower() for h in driver.find_elements(By.TAG_NAME, "h1")]
         if any("challenge" in h or "turnstile" in h for h in h1s):
             print("\n[ALERTE] Captcha détecté (H1)")
-            input(">>> Résolvez le CAPTCHA manuellement puis appuyez sur ENTREE <<<")
+            input(">>> Résolvez le CAPTCHA puis appuyez sur ENTREE <<<")
             return True
             
     except Exception: pass
     return False
 
+def extract_ticker(company_string):
+    """
+    Extrait le ticker proprement.
+    Ex: "Apple Inc. (AAPL)" -> "AAPL"
+    Ex: "Apple (AAPL)" -> "AAPL"
+    """
+    try:
+        return company_string.split('(')[1].replace(')', '').strip()
+    except IndexError:
+        # Fallback si le format est mauvais (ne devrait pas arriver avec notre liste)
+        return company_string.strip()
+
 def load_existing_data():
+    """
+    Charge les données et génère des clés UNIQUES basées sur le TICKER.
+    Cela évite les doublons même si le nom de l'entreprise change légèrement.
+    """
     if os.path.exists(CSV_FILENAME):
         try:
             df = pd.read_csv(CSV_FILENAME)
             if df.empty: return [], set()
             records = df.to_dict('records')
-            done_set = set(f"{row['company']}_{row['year']}_{row['quarter']}" for row in records)
-            print(f"[INFO] Historique chargé : {len(records)} entrées.")
+            
+            done_set = set()
+            for row in records:
+                # On extrait le ticker de la colonne 'company' du CSV existant
+                # Peu importe si c'était "Apple Inc. (AAPL)" ou "Apple (AAPL)"
+                ticker_in_csv = extract_ticker(row['company'])
+                
+                # Clé unique : TICKER + ANNÉE + TRIMESTRE
+                key = f"{ticker_in_csv}_{row['year']}_{row['quarter']}"
+                done_set.add(key)
+                
+            print(f"[INFO] Historique chargé : {len(records)} entrées (Basé sur Tickers).")
             return records, done_set
-        except: return [], set()
+        except Exception as e:
+            print(f"[WARN] Erreur chargement CSV: {e}")
+            return [], set()
     return [], set()
 
 def save_data_safely(data):
@@ -164,14 +200,14 @@ def save_data_safely(data):
 
 def google_search_quarter_fool(driver, company_full_name, quarter, year):
     search_name = company_full_name.split('(')[0].strip()
-    ticker = company_full_name.split('(')[1].replace(')', '').strip()
+    search_name = search_name.replace(".com", "").replace(" Group", "").strip()
+    ticker = extract_ticker(company_full_name)
 
     query = f'site:fool.com {search_name} {quarter} {year} "Earnings Call Transcript"'
-    print(f"[RECHERCHE] {ticker} {quarter} {year}...")
+    print(f"[RECHERCHE] {search_name} ({ticker}) {quarter} {year}...")
 
     try:
         driver.get("https://www.google.com")
-        # Délai dynamique selon configuration
         time.sleep(random.uniform(*DELAYS['google_search']))
         
         try:
@@ -187,9 +223,10 @@ def google_search_quarter_fool(driver, company_full_name, quarter, year):
         search_box.send_keys(query)
         search_box.send_keys(Keys.RETURN)
         
-        # Délai post-recherche
         time.sleep(random.uniform(*DELAYS['google_search']))
-        check_for_captcha(driver)
+        if check_for_captcha(driver):
+            print("[INFO] Reprise après résolution Captcha...")
+            time.sleep(3)
 
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         links_found = []
@@ -204,6 +241,7 @@ def google_search_quarter_fool(driver, company_full_name, quarter, year):
                 if "transcript" not in title.lower(): continue
                 if quarter.lower() not in title.lower(): continue
                 if str(year) not in title: continue
+                
                 if ticker.lower() not in title.lower() and search_name.lower() not in title.lower():
                     continue
 
@@ -223,7 +261,6 @@ def google_search_quarter_fool(driver, company_full_name, quarter, year):
 def extract_content_fool(driver, url):
     try:
         driver.get(url)
-        # Délai de chargement page selon configuration
         time.sleep(random.uniform(*DELAYS['page_load']))
 
         try:
@@ -260,7 +297,7 @@ def extract_content_fool(driver, url):
     return None
 
 def main():
-    print(f"--- Scraping S&P 500 (Mode: {MODE}) ---")
+    print(f"--- Scraping S&P 500 (Mode: {MODE} - ID: Ticker) ---")
     all_data, done_set = load_existing_data()
     driver = setup_driver()
     
@@ -268,9 +305,16 @@ def main():
         for year in TARGET_YEARS:
             print(f"\n>>> TRAITEMENT ANNÉE : {year} <<<\n")
             for company in COMPANIES:
+                # Extraction du ticker pour la clé de vérification
+                current_ticker = extract_ticker(company)
+                
                 for quarter in QUARTERS:
-                    task_key = f"{company}_{year}_{quarter}"
-                    if task_key in done_set: continue 
+                    # CLÉ MAGIQUE : Ticker_Annee_Quarter
+                    # Elle sera identique pour "Apple Inc. (AAPL)" et "Apple (AAPL)"
+                    task_key = f"{current_ticker}_{year}_{quarter}"
+                    
+                    if task_key in done_set: 
+                        continue 
 
                     results = google_search_quarter_fool(driver, company, quarter, year)
                     
@@ -291,7 +335,6 @@ def main():
                     else:
                         print(f"[WARN] Contenu vide/court : {item['title']}")
 
-                    # PAUSE CRITIQUE : C'est ici que se joue l'endurance
                     delay_min, delay_max = DELAYS['inter_request']
                     sleep_time = random.uniform(delay_min, delay_max)
                     print(f"   ... Pause de sécurité de {int(sleep_time)}s ...")
