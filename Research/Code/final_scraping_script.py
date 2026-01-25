@@ -15,7 +15,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
 # --- CONFIGURATION ---
-CSV_FILENAME = "sp500_transcripts_history.csv"
+#CSV_FILENAME = "sp500_transcripts_history.csv"
+CSV_FILENAME = "sp500_transcripts_history_part_2.csv"
 TARGET_YEARS = ["2025", "2024", "2023"]
 QUARTERS = ["Q1", "Q2", "Q3", "Q4"]
 
@@ -38,6 +39,8 @@ SPEED_PROFILES = {
 DELAYS = SPEED_PROFILES[MODE]
 
 # Liste S&P 500 Nettoyée
+
+'''
 COMPANIES = [
     # --- TECH & GAFAM ---
     "Apple (AAPL)", "Microsoft (MSFT)", "Nvidia (NVDA)",
@@ -60,6 +63,74 @@ COMPANIES = [
     # --- INDUSTRIE & ÉNERGIE ---
     "ExxonMobil (XOM)", "Chevron (CVX)", "General Electric (GE)",
     "Caterpillar (CAT)", "Boeing (BA)", "Lockheed Martin (LMT)", "Honeywell (HON)"
+]
+'''
+# Liste de 50 "Industrielles" du S&P 500 (Sans doublons avec les précédentes)
+COMPANIES = [
+    # --- AÉROSPATIALE & DÉFENSE ---
+    "RTX (RTX)",             # Ex-Raytheon Technologies
+    "Northrop Grumman (NOC)",
+    "General Dynamics (GD)",
+    "L3Harris (LHX)",
+    "TransDigm (TDG)",
+    "Howmet Aerospace (HWM)",
+    "Textron (TXT)",
+    "Huntington Ingalls (HII)",
+    "Axon Enterprise (AXON)", # Taser & tech police
+
+    # --- LOGISTIQUE & TRANSPORTS ---
+    "UPS (UPS)",
+    "FedEx (FDX)",
+    "Union Pacific (UNP)",
+    "CSX (CSX)",
+    "Norfolk Southern (NSC)",
+    "Old Dominion Freight (ODFL)",
+    "J.B. Hunt (JBHT)",
+    "C.H. Robinson (CHRW)",
+    "Expeditors (EXPD)",
+
+    # --- COMPAGNIES AÉRIENNES ---
+    "Delta Air Lines (DAL)",
+    "United Airlines (UAL)",
+    "Southwest Airlines (LUV)",
+    
+    # --- MACHINERIE & ÉQUIPEMENT ---
+    "Deere (DE)",           # John Deere
+    "Cummins (CMI)",        # Moteurs
+    "PACCAR (PCAR)",        # Camions Kenworth/Peterbilt
+    "Wabtec (WAB)",         # Ferroviaire
+    "Parker-Hannifin (PH)", # Contrôle mouvement
+    "Otis (OTIS)",          # Ascenseurs
+    "Carrier Global (CARR)",# Climatisation
+    "Johnson Controls (JCI)",
+    "Trane Technologies (TT)",
+    "Rockwell Automation (ROK)",
+    "Dover (DOV)",
+    "Ingersoll Rand (IR)",
+    "Xylem (XYL)",          # Technologies de l'eau
+    "Fortive (FTV)",
+    "Stanley Black & Decker (SWK)",
+    "Snap-on (SNA)",
+    "Nordson (NDSN)",
+
+    # --- CONSTRUCTION & INGÉNIERIE ---
+    "Vulcan Materials (VMC)",
+    "Martin Marietta (MLM)",
+    "Quanta Services (PWR)",
+    "Jacobs Solutions (J)",
+    "United Rentals (URI)",
+    "Builders FirstSource (BLDR)",
+
+    # --- SERVICES & DIVERS ---
+    "3M (MMM)",             # Conglomérat
+    "Eaton (ETN)",          # Gestion énergie
+    "Emerson Electric (EMR)",
+    "Waste Management (WM)", # Déchets
+    "Republic Services (RSG)",
+    "Cintas (CTAS)",        # Uniformes
+    "Fastenal (FAST)",      # Fixations industrielles
+    "W.W. Grainger (GWW)",  # Fournitures industrielles
+    "Verisk Analytics (VRSK)"
 ]
 
 def setup_driver():
