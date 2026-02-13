@@ -1,0 +1,781 @@
+company,year,quarter,explication,tariffs_any,sanctions_any,export_controls_any,boycotts_any,investment_screening_any,geo_subsidies_any,geoeconomic_any
+Apple Inc. (AAPL),2025,Q1,"
+--- Part 2 ---
+Apple’s earnings call highlighted a single geoeconomic pressure: a state‑aid decision that required the company to pay $11.9 billion during the quarter. This payment reflects a subsidy that was disallowed by regulators, illustrating how government‑provided financial incentives—when deemed non‑compliant—can directly impact a firm’s cash flow and require costly remediation. No tariffs, sanctions, export controls, boycotts, or investment‑screening discussions were mentioned. Thus, Apple’s exposure to geoeconomic policy in this call is limited to the subsidy‑related fine, which affected operating cash flow and underscored the importance of compliance with state‑aid rules.
+
+--- Part 5 ---
+Apple acknowledged the possibility of tariff impacts on its products under a potential “Trump 2.0” scenario during the earnings call. The CEO noted that the company is monitoring the situation but did not provide specific details on how tariffs might affect pricing, supply chain costs, or demand. No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring or friendshoring—were discussed or implied in the transcript. Consequently, Apple’s exposure to geoeconomic pressure in this call is limited to the monitoring of potential tariff changes, with no concrete operational or financial impacts outlined.
+",1,0,0,0,0,1,1
+Apple Inc. (AAPL),2025,Q3,"
+--- Part 1 ---
+Apple’s earnings call highlighted the company’s exposure to tariff‑related costs as a key geoeconomic pressure. Management disclosed that the firm incurred approximately $800 million in tariff costs during the quarter and projected an additional $1.1 billion in tariffs for the next quarter, underscoring the material impact on operating expenses and gross margin. The company’s gross margin fell 60 basis points sequentially, primarily attributed to these tariff costs, and the guidance explicitly incorporates the $1.1 billion tariff expense, lowering the expected margin range to 46‑47 %. Apple’s revenue growth remains robust, but the tariff burden introduces volatility and uncertainty into cost structures, potentially affecting pricing, product mix decisions, and capital allocation. No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies—were discussed or implied in the call. Consequently, Apple’s primary geoeconomic challenge in this period is the tariff environment, which directly influences its cost base and margin outlook.
+
+--- Part 2 ---
+Apple’s earnings call highlighted that tariffs are the only geoeconomic policy currently affecting its business. The company reported approximately $800 million in tariff‑related costs for the June quarter and projected an additional $1.1 billion in tariff costs for the September quarter, assuming no changes in rates or new tariffs. These costs have materially impacted Apple’s gross margin, with product gross margin falling 140 basis points sequentially largely due to tariff expenses. The firm emphasized that tariff rates are evolving and that any future changes could further influence cost structures and profitability. No other geoeconomic pressures—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring or friendshoring—were discussed or referenced in the call. Thus, Apple’s exposure to geoeconomic policy is confined to tariff‑related cost increases, which the company is monitoring closely as it plans its financial outlook and operational strategy.
+
+--- Part 3 ---
+Apple’s June‑quarter earnings call highlighted two key geoeconomic pressures that directly influence its business: tariffs and subsidies. The company explicitly referenced the continued application of global tariff rates, noting that the $1.1 billion in tariff‑related costs would be factored into its gross‑margin outlook. Apple also discussed a “pull‑forward” effect, where consumers accelerated purchases in anticipation of tariff changes, indicating that tariff policy is shaping demand patterns and inventory decisions.  
+
+In addition, Apple acknowledged that the Chinese government has introduced subsidies that affect some of its products. While the company did not detail the exact nature of these subsidies, it implied that they have a measurable impact on sales and product pricing in Greater China. The subsidies appear to be aimed at encouraging domestic consumption of Apple devices, thereby providing a competitive advantage for Apple in that market.  
+
+No references were made to sanctions, export controls, boycotts, or investment screening during the call. Consequently, Apple’s exposure to these particular geoeconomic instruments appears minimal or non‑existent in the context of this earnings presentation.  
+
+Overall, Apple’s financial performance and strategic outlook are influenced by the dual forces of tariff‑related costs and government subsidies, both of which are manifestations of broader geoeconomic pressure. The company’s management emphasized that it is monitoring these policies closely and adjusting its pricing, supply‑chain, and market‑entry strategies accordingly to mitigate adverse impacts and capitalize on subsidy‑driven opportunities.
+
+--- Part 5 ---
+Apple’s earnings call highlighted the impact of tariffs on its business.  The company explicitly referenced “tariff‑related discussions” and a “pull‑ahead” effect that was driven by tariff concerns, noting that the effect was largely on iPhone and Mac sales and primarily in the United States.  Apple also mentioned that tariffs are “pretty linear with volume,” indicating that the cost impact scales with the amount of goods shipped.  These comments show that tariffs are a significant geoeconomic pressure affecting Apple’s supply chain, pricing, inventory management, and sales performance.  No other geoeconomic policies—sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were discussed or implied in the transcript.  Therefore, Apple’s exposure in this call is limited to tariff‑related effects, which influence component costs, inventory decisions, and revenue projections.
+",1,0,0,0,0,1,1
+Microsoft Corporation (MSFT),2025,Q1,Not affected.,0,0,0,0,0,0,0
+Microsoft Corporation (MSFT),2025,Q2,"
+--- Part 2 ---
+Microsoft’s earnings call highlighted that tariffs remain a relevant geoeconomic factor for the company. The management team noted that uncertainty around tariffs influenced Windows OEM and devices revenue, prompting commercial inventory builds ahead of Windows 10 end‑of‑support. This indicates that import taxes on foreign goods are affecting Microsoft’s supply chain decisions and potentially pricing strategies for its hardware products. No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring or friendshoring—were mentioned or implied in the discussion. Consequently, the company’s exposure to geoeconomic pressure is limited to tariff-related concerns at this time.
+
+--- Part 3 ---
+Microsoft’s Q3 earnings call highlighted the impact of tariff uncertainties on its Windows OEM and devices business. The company noted that “actual results may differ based on current tariff uncertainties,” indicating that import duties on components or finished products could affect pricing, supply‑chain costs, and ultimately revenue in that segment. No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were referenced or implied in the discussion. Thus, tariffs are the sole geoeconomic pressure affecting Microsoft’s operations as reported in this call.
+",1,0,0,0,0,0,1
+Microsoft Corporation (MSFT),2025,Q4,Not affected.,0,0,0,0,0,0,0
+Nvidia Corporation (NVDA),2025,Q1,"
+--- Part 1 ---
+NVIDIA’s first‑quarter 2025 earnings call highlighted a single geoeconomic pressure: export controls imposed by the United States on its Chinese market. The company explicitly noted that “new export control restrictions in October” had caused a significant decline in its Data Center revenue in China, and that it had “ramped new products designed specifically for China that don’t require export control license.” This indicates that the firm is actively adjusting its product portfolio to comply with U.S. export‑control regulations, thereby mitigating the impact on sales in that region.
+
+The export‑control environment has forced NVIDIA to shift its focus toward markets where it can sell its flagship Hopper GPU architecture without regulatory hurdles. While the company’s overall revenue remains robust—record $26 billion in Q1—the loss in China underscores the sensitivity of its high‑margin Data Center segment to U.S. policy. NVIDIA’s strategy of developing “products that don’t require export‑control licenses” reflects a broader trend of designing hardware and software that can be sold in restricted markets, a move that may limit the company’s ability to capture the full potential of the Chinese AI ecosystem.
+
+Beyond export controls, the call made no reference to tariffs, sanctions, boycotts, investment screening, or subsidies to onshore or friend‑shore production. Consequently, NVIDIA’s exposure to those specific geoeconomic levers appears minimal or non‑existent at this time. The company’s emphasis on sovereign AI initiatives in countries such as Japan, France, Italy, and Singapore suggests a deliberate diversification strategy aimed at reducing reliance on any single geopolitical environment.
+
+In summary, NVIDIA is affected by U.S. export controls in China, which have reduced its revenue in that market and prompted product‑level adaptations. No other geoeconomic policies were discussed during the call, indicating that the company’s current geoeconomic exposure is largely confined to export‑control compliance. The firm’s proactive product adjustments and geographic diversification efforts aim to cushion the impact of these controls while maintaining growth momentum in its core Data Center and AI infrastructure businesses.
+",0,0,1,0,0,0,1
+Nvidia Corporation (NVDA),2025,Q2,Not affected.,0,0,1,0,0,0,1
+Nvidia Corporation (NVDA),2025,Q3,"
+--- Part 1 ---
+NVIDIA’s Q3 2025 earnings call reveals that the company’s business is impacted primarily by export‑control restrictions.  The executives explicitly reference “export‑controls” when discussing their China operations, noting that revenue in that market has been “well below levels prior to the onset of export controls.”  They emphasize that they will continue to “comply with export controls while serving our customers,” and that they are shipping “export‑compliant Hopper products” to Chinese industries.  This indicates that the company’s ability to sell certain high‑performance GPUs and related technologies to China is constrained by U.S. export‑control regulations, which in turn affects revenue mix and supply‑chain planning.
+
+No mention of tariffs, sanctions, boycotts, investment screening, or subsidies to onshore/friendshore production appears in the transcript.  Consequently, NVIDIA’s exposure to those geoeconomic pressures is either nonexistent or not discussed.  The only geoeconomic policy referenced is the export‑control regime, which is a form of geoeconomic pressure that limits the company’s market access in China and requires ongoing compliance efforts.  The company’s strategy appears to focus on maintaining compliance while continuing to serve customers in regulated markets, thereby mitigating the impact of export controls on its overall growth trajectory.
+",0,0,1,0,0,0,1
+Nvidia Corporation (NVDA),2025,Q4,"
+--- Part 1 ---
+NVIDIA’s Q4 2025 earnings call highlighted that its data‑center revenue from China has fallen significantly compared to earlier periods, a decline the company attributes to the “onset of export controls.”  This indicates that U.S. export‑control restrictions on technology sales to China have directly limited NVIDIA’s ability to sell GPUs and related AI infrastructure in that market, reducing its revenue share from China.  No other geoeconomic pressures were discussed: the company made no reference to tariffs on imported goods, trade sanctions against specific countries, boycotts, investment‑screening reviews, or subsidies aimed at onshoring or friend‑shoring production.  Consequently, NVIDIA’s exposure to geoeconomic policy is limited to the export‑control environment affecting its Chinese operations, while other potential pressures such as tariffs, sanctions, or investment screening were not mentioned in the call.
+
+--- Part 2 ---
+The company’s earnings call reveals that the primary geoeconomic pressure it faces is compliance with export controls.  The speaker explicitly states that the firm will “continue to comply with export controls while serving our customers,” indicating that the company must navigate U.S. and allied export‑control regimes when delivering technology to foreign entities.  This compliance requirement can affect product availability, customer selection, and the timing of shipments, especially for advanced GPUs and networking solutions that may be subject to restrictions on certain countries or end‑users.  The company also notes that shipments to China are expected to remain roughly at current levels, suggesting that, at the time of the call, Chinese tariffs or sanctions were not materially impacting its business.  No references were made to tariffs, sanctions, boycotts, investment screening, or subsidies for onshoring or friendshoring.  Consequently, the firm’s exposure to geoeconomic policy is limited to export‑control compliance, which it acknowledges as a significant operational consideration but does not indicate any immediate adverse impact beyond the need for regulatory adherence.
+
+--- Part 5 ---
+Nvidia’s earnings call highlighted uncertainty around U.S. tariffs that could impact the cost of semiconductor components and, consequently, gross margins. The CFO noted that tariff levels, timing, and scope remain unknown, and the company is monitoring the U.S. government’s plans closely. This exposure could lead to higher input costs or necessitate price adjustments, affecting profitability in the short term.
+
+The company also reaffirmed its commitment to comply with export controls. Nvidia stated it would “follow export controls and/or tariffs” as required, indicating that restrictions on selling technology to certain jurisdictions or customers could impose operational constraints. Compliance may involve additional licensing, documentation, and potential delays in delivering products to affected markets, thereby influencing sales volumes and revenue streams.
+
+No discussion of sanctions, boycotts, investment screening, or subsidies to onshore or friendshore production was present in the transcript. Therefore, Nvidia’s exposure is limited to tariff uncertainty and export control compliance. The firm’s strategic focus remains on scaling AI hardware and software, but these geoeconomic pressures could shape cost structures and market access in the near term.
+",1,0,1,0,0,0,1
+Alphabet Inc. (GOOGL),2025,Q2,Not affected.,0,0,0,0,0,0,0
+Alphabet Inc. (GOOGL),2025,Q3,Not affected.,0,0,0,0,0,0,0
+Amazon.com Inc. (AMZN),2025,Q3,"
+--- Part 1 ---
+Amazon’s management explicitly acknowledged that “tariff and trade policies” are among the external factors that could materially affect its results. While the company did not detail specific tariffs or provide concrete examples, the statement signals that changes in import duties imposed by foreign governments could influence the cost structure of Amazon’s global operations. The firm’s international revenue segment—$40.9 billion in Q3 2025—constitutes a significant portion of its top line, and any increase in tariffs on imported goods or components would raise procurement costs, compress margins, and potentially lead to higher retail prices for consumers. This, in turn, could dampen demand or shift purchasing patterns, especially in price‑sensitive markets.
+
+Amazon’s supply‑chain and logistics network, which spans multiple countries, is also exposed to tariff risk. Higher duties on shipping containers, packaging materials, or consumer electronics could increase freight and handling expenses, thereby affecting the company’s operating income in the international segment (reported at $1.2 billion). The company’s emphasis on “changes in global economic and geopolitical conditions” further underscores its awareness that tariff policy shifts—whether unilateral or coordinated—could disrupt cross‑border trade flows, alter inventory sourcing decisions, and necessitate adjustments in pricing strategies to maintain competitiveness.
+
+In response, Amazon likely monitors tariff developments closely, evaluates alternative sourcing locations, and may adjust its pricing or promotional tactics to mitigate adverse impacts. The company’s robust cash position and significant capital expenditures on infrastructure (e.g., AWS data centers) provide some flexibility to absorb short‑term cost increases. However, sustained or escalating tariff regimes could erode international operating margins and constrain growth in the retail and AWS segments that rely heavily on global customer bases.
+
+No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshore/friendshore production—were discussed in the transcript. Therefore, the firm’s exposure to geoeconomic pressure is currently limited to tariff and trade policy considerations, which it acknowledges as a potential risk factor for its financial performance.
+",1,0,0,0,0,0,1
+Meta Platforms (META),2025,Q3,Not affected.,0,0,0,0,0,0,0
+Tesla Inc. (TSLA),2025,Q2,"
+--- Part 1 ---
+Tesla’s Q2 2025 earnings call highlighted the impact of import tariffs on its business. The company reported that tariff costs rose by roughly $300 million sequentially, with about two‑thirds of that burden falling on the automotive segment and the remainder on energy. These tariffs increase the cost of imported components and materials, squeezing margins and potentially raising vehicle prices, which could dampen demand and affect delivery volumes. The company noted that tariff headwinds are expected to persist in future quarters due to manufacturing and sales cycle latency.
+
+No other geoeconomic policies were discussed. Tesla did not mention sanctions, export controls, boycotts, investment screening, or subsidies to onshore or friendshore production. Consequently, the only geoeconomic pressure affecting the firm in this call is the tariff regime imposed by the United States on imported goods.
+
+In summary, Tesla is affected by tariffs that increase its operating costs and could influence pricing and sales, but it is not impacted by other geoeconomic policies such as sanctions, export controls, boycotts, investment screening, or subsidies in this earnings call.
+
+--- Part 3 ---
+Tesla’s earnings call highlighted the company’s exposure to tariff‑related pressures. The management team explicitly noted that they are operating in an “unpredictable environment on the tariff front” and that the energy generation and solar businesses, as well as the residential storage segment, are experiencing the largest impacts from tariffs. These tariffs have led to higher input costs, which in turn affect margins and demand for certain product lines. The company also mentioned that customers are beginning to accept some of the tariff‑induced cost increases, indicating a shift in pricing strategy and customer tolerance.
+
+No other geoeconomic policy categories were referenced in the transcript. There were no mentions of sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring. Consequently, the only geoeconomic pressure affecting Tesla discussed in this call is the tariff environment. The company’s response focuses on managing these cost pressures through operational adjustments and continued investment in AI and energy initiatives to maintain long‑term competitiveness. No additional geoeconomic impacts were identified.
+",1,0,1,0,0,0,1
+Tesla Inc. (TSLA),2025,Q3,"
+--- Part 1 ---
+Tesla’s earnings call highlighted a significant impact from import tariffs, which the company quantified as over $400 million in total costs for the quarter across both its automotive and energy divisions. The CFO explicitly tied these costs to “tariff impacts” and noted that the company’s Shanghai factory was leveraged to mitigate some of the tariff burden in non‑U.S. markets. This indicates that Tesla’s supply chain and pricing strategy are directly affected by the U.S. government’s tariff policy on imported goods, forcing the firm to absorb higher costs or adjust its production footprint to maintain margins.
+
+Beyond tariffs, the transcript contains no references to sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring. Consequently, Tesla’s exposure to other forms of geoeconomic pressure appears minimal in this particular call. The company’s focus remains on scaling production, advancing AI capabilities, and expanding its energy storage portfolio, with the tariff discussion being the sole geoeconomic factor mentioned.
+
+In summary, Tesla is affected by tariffs, which influence its cost structure and production decisions, but it is not currently impacted by other geoeconomic policies such as sanctions, export controls, boycotts, investment screening, or targeted subsidies.
+
+--- Part 2 ---
+Tesla’s Q3 earnings call highlighted that the company is directly impacted by tariff‑related geoeconomic pressure.  The energy‑storage segment, which sources most of its components from China, reported that tariffs constitute a significant portion of its cost of goods sold.  The firm quantified the tariff impact at over $400 million for the quarter, affecting both its automotive and energy businesses.  To mitigate this exposure, Tesla has ramped up production at its Shanghai megafactory, using it to supply non‑U.S. demand and thereby avoid many import duties.  No other geoeconomic policies were discussed: the company made no reference to sanctions, export controls, boycotts, investment screening, or subsidies for onshore or friend‑shoring.  Consequently, Tesla’s primary geoeconomic challenge in this period is the cost burden of tariffs, which the company is addressing through strategic manufacturing shifts.
+",1,0,0,0,0,0,1
+Broadcom Inc. (AVGO),2025,Q1,"
+--- Part 3 ---
+The company acknowledges a potential geoeconomic risk from tariffs on semiconductor components, noting that the threat is still in the “noise” stage and has not yet materialized into concrete duties or pricing changes. While the executives emphasize that the impact of such tariffs remains uncertain, they recognize that any future tariff regime could disrupt supply chains, increase costs for chip production, and affect the pricing and competitiveness of their AI accelerators (XPUs). No other geoeconomic pressures—sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were discussed or implied in the call. Consequently, the firm’s exposure is limited to the speculative tariff risk, with no current evidence of sanctions, export restrictions, or other policy-driven constraints affecting its operations or market reach.
+",1,0,0,0,0,0,1
+Broadcom Inc. (AVGO),2025,Q2,"
+--- Part 1 ---
+Broadcom’s Q2 2025 earnings call highlighted that the company’s AI semiconductor business could be impacted by evolving export control regulations. The CEO explicitly referenced “prospective impacts of changing export controls on AI product shipments,” indicating that new or tightened controls could restrict the sale or transfer of certain AI chips to specific foreign customers or jurisdictions. This introduces compliance costs, potential shipment delays, and the need for additional licensing or documentation, which could affect revenue timing and margins for the AI semiconductor segment. No other geoeconomic pressures—such as tariffs, sanctions, boycotts, investment screening, or subsidies—were mentioned or implied in the discussion. Therefore, Broadcom’s exposure to geoeconomic policy risk is currently limited to export controls affecting its AI semiconductor product line.
+
+--- Part 5 ---
+Broadcom’s earnings call revealed that the company is potentially impacted by export controls on artificial‑intelligence (AI) technology. During a question from Morgan Stanley, the CEO acknowledged that the regulatory environment is rapidly evolving and that the firm cannot guarantee that export controls will not affect its AI business. No other geoeconomic pressures—such as tariffs, sanctions, boycotts, investment screening, or subsidies for onshoring or friendshoring—were mentioned or implied in the discussion. Consequently, Broadcom’s exposure to geoeconomic policy is limited to the uncertainty surrounding export controls on AI, with no explicit or indirect references to other forms of geoeconomic pressure.
+",0,0,1,0,0,0,1
+Broadcom Inc. (AVGO),2025,Q4,Not affected.,0,0,0,0,0,0,0
+Adobe Inc. (ADBE),2025,Q1,Not affected.,1,0,0,0,0,0,1
+Adobe Inc. (ADBE),2025,Q2,Not affected.,0,0,0,0,0,0,0
+Adobe Inc. (ADBE),2025,Q4,Not affected.,0,0,0,0,0,0,0
+Salesforce (CRM),2025,Q1,Not affected.,0,0,0,0,0,0,0
+Salesforce (CRM),2025,Q2,Not affected.,0,0,0,0,0,0,0
+Salesforce (CRM),2025,Q3,Not affected.,0,0,0,0,0,0,0
+Salesforce (CRM),2025,Q4,Not affected.,0,0,0,0,0,0,0
+Cisco Systems (CSCO),2025,Q1,"
+--- Part 2 ---
+Cisco’s Q1 earnings call highlighted the impact of U.S. import tariffs on its business. The company explained that it had a one‑time benefit in the cost‑of‑goods‑sold line from a duty‑drawback program. Components that were imported into the United States had incurred tariffs; when those components were subsequently exported, Cisco was able to file for and receive a refund of the tariffs paid. The CFO noted that this project had been in development for several years and that the filings were accepted during the quarter, resulting in a substantial one‑time benefit.  
+
+This discussion is a clear example of how a tariff—an economic policy imposed by the importing country—directly affected Cisco’s financials. The company’s mention of the duty‑drawback mechanism demonstrates how it navigated the tariff regime to mitigate costs and even generate a benefit.  
+
+No other geoeconomic policies were referenced in the call. Cisco did not discuss sanctions, export controls, boycotts, investment screening, or subsidies to onshore or friendshore production. Consequently, the only geoeconomic pressure identified in the transcript is the tariff regime, which had a measurable, albeit one‑time, effect on the company’s cost structure.  
+
+In summary, Cisco’s earnings call indicates that tariffs impacted the firm through a duty‑drawback benefit, while no other geoeconomic policies were mentioned.
+",1,0,0,0,0,0,1
+Cisco Systems (CSCO),2025,Q2,"
+--- Part 5 ---
+Cisco’s management acknowledged that the “impact of these potential tariffs” is becoming clearer and that the company will take steps to mitigate where possible. The discussion was limited to tariffs; there was no mention of sanctions, export controls, boycotts, investment screening, or subsidies for onshoring or friendshoring. Because tariffs are a form of geoeconomic pressure, the company’s reference to them triggers the geoeconomic_any flag. No other geoeconomic policies were discussed. Thus, Cisco is affected only by the potential tariff environment, which may influence sourcing decisions, cost structures, and pricing strategies, but no other geoeconomic pressures were identified in this call.
+",1,0,0,0,0,0,1
+Oracle Corporation (ORCL),2025,Q1,Not affected.,0,0,0,0,0,0,0
+Oracle Corporation (ORCL),2025,Q2,Not affected.,0,0,0,0,0,0,0
+Oracle Corporation (ORCL),2025,Q3,Not affected.,0,0,0,0,0,0,0
+Intel Corporation (INTC),2025,Q2,"
+--- Part 1 ---
+Intel’s Q2 earnings call highlighted the impact of import tariffs on its business. Executives noted that “increased tariff impact” was a key driver of the decline in non‑GAAP gross margin for the quarter and a contributing factor to the sequential drop in foundry revenue. The company’s foundry segment, which serves external customers, is particularly sensitive to tariff‑related cost increases on imported materials and equipment, thereby compressing margins and affecting the timing of future capital expenditures. The discussion of tariffs also underscored the broader geoeconomic pressure Intel faces from trade policy, as tariffs are a direct tool governments use to influence economic relationships. No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were mentioned or implied in the call. Consequently, Intel’s exposure to geoeconomic risk in this earnings presentation is limited to tariff‑related cost pressures, which the company is managing through supply‑chain adjustments and a disciplined CapEx strategy.
+
+--- Part 2 ---
+Intel’s earnings call highlighted that the company is experiencing the effects of tariff‑related uncertainty stemming from shifting trade policies. The management team noted that “customer purchasing behavior to mitigate tariff uncertainty” likely contributed to stronger Q2 revenue, indicating that tariff considerations are influencing demand patterns and pricing strategies. While the call did not explicitly discuss other geoeconomic instruments such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring or friendshoring, the presence of tariff uncertainty qualifies as a form of geoeconomic pressure. Consequently, Intel’s business is affected by tariffs, which can alter supply‑chain costs, influence customer buying decisions, and shape the company’s capacity‑investment strategy. No other geoeconomic policies were identified as impacting the firm in this call.
+",1,0,0,0,0,0,1
+Intel Corporation (INTC),2025,Q3,"
+--- Part 1 ---
+Intel’s Q3 2025 earnings call highlighted a single geoeconomic influence: a U.S. government subsidy program aimed at restoring domestic semiconductor production. The CEO explicitly referenced “accelerated funding from the United States government” and praised the “trust and confidence” of the Trump administration, framing the partnership as a strategic subsidy to onshore manufacturing. This financial support has bolstered Intel’s liquidity, enabling the company to maintain a strong cash position, repay debt, and allocate capital toward new fabs, R&D, and workforce initiatives. By receiving direct government funding, Intel can reduce its reliance on foreign supply chains, accelerate the ramp‑up of advanced nodes (e.g., 18A, 14A), and strengthen its competitive position in the AI and data‑center markets.
+
+No other geoeconomic policies were discussed in the call. The transcript contains no references to tariffs, sanctions, export controls, boycotts, or investment screening. Consequently, Intel’s exposure to geoeconomic pressure is limited to the onshore subsidy program, which has provided tangible financial benefits and strategic alignment with U.S. policy objectives. All other potential geoeconomic risks—such as trade restrictions, sanctions on foreign markets, or export control compliance—were not mentioned and therefore do not appear to impact the company’s operations or financial outlook at this time.
+",0,0,0,0,0,1,1
+Netflix (NFLX),2025,Q2,Not affected.,0,0,0,0,0,0,0
+Netflix (NFLX),2025,Q4,Not affected.,0,0,0,0,0,0,0
+IBM (IBM),2025,Q2,Not affected.,0,0,0,0,0,0,0
+JPMorgan Chase (JPM),2025,Q2,"
+--- Part 3 ---
+The firm explicitly references tariffs as a geoeconomic pressure that could influence its business. During the call, the speaker notes that tariffs “will have different experiences as a function of their margins, their sensitivity to input cost, their amount of pricing power, their amount of leverage, and where the rules actually land.” This indicates that the company is aware that tariffs can raise input costs for borrowers, squeeze profit margins, and alter pricing dynamics across its middle‑market lending portfolio. The firm also acknowledges that borrowers are “getting some time to adjust” and that it is “watching it very closely,” implying that it is monitoring the evolving tariff landscape and assessing its impact on loan performance, credit quality, and overall risk exposure. No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies to onshore/friendshore—were discussed in the transcript. Thus, tariffs are the sole geoeconomic factor identified, and the firm’s response centers on monitoring and adjusting to potential cost and margin pressures that tariffs may impose on its customers and operations.
+
+--- Part 4 ---
+The earnings call highlighted that tariff policy is a key geoeconomic factor affecting the firm’s business environment.  The discussion centered on how uncertainty around tariffs—particularly those that could be lifted or clarified—has been a tail‑risk that may dampen commercial activity and, by extension, loan demand and credit quality for the bank’s corporate clients.  The firm noted that the removal of tariff uncertainty could lift activity levels, thereby improving the pipeline for new loans and potentially boosting interest‑income from corporate banking.  While the bank itself does not import goods subject to tariffs, the impact on its clients’ trade operations translates into changes in credit exposure, risk‑adjusted returns, and the overall health of the corporate loan portfolio.
+
+The call also touched on tax‑bill certainty as a positive factor that reduces risk for clients, but this is not a geoeconomic policy per se.  No other geoeconomic pressures—sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were mentioned or implied in the discussion.  Consequently, the firm’s exposure is limited to tariff‑related risks, with no direct impact from the other listed geoeconomic instruments.  The firm remains vigilant about tariff developments, recognizing that changes in trade policy can influence client behavior and the bank’s credit and revenue outlook.
+",1,0,0,0,0,0,1
+JPMorgan Chase (JPM),2025,Q4,Not affected.,0,0,0,0,0,0,0
+Visa Inc. (V),2025,Q1,"
+--- Part 4 ---
+Visa’s earnings call discussion touched on one geoeconomic policy: tariffs.  When asked whether the threat of tariffs had already influenced consumer or commercial spending, the company’s leadership acknowledged that they had not observed any direct impact to date.  They noted that the effect of tariffs is uncertain and that the firm will monitor developments as any new tariff measures are announced and implemented.  No other geoeconomic pressures—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were mentioned or implied in the transcript.  Consequently, Visa’s current exposure to geoeconomic policy is limited to the potential future impact of tariffs, which the company is watching closely but has not yet experienced.
+",1,0,0,0,0,0,1
+Visa Inc. (V),2025,Q2,Not affected.,0,0,0,0,0,0,0
+Visa Inc. (V),2025,Q3,Not affected.,1,0,0,0,0,0,1
+Visa Inc. (V),2025,Q4,Not affected.,0,0,0,0,0,0,0
+Mastercard (MA),2025,Q3,Not affected.,0,0,0,0,0,0,0
+Bank of America (BAC),2025,Q2,"
+--- Part 1 ---
+Bank of America’s Q2 2025 earnings call highlighted that the firm is impacted by tariff‑related trade policy. Executives noted that clients are “seeking clarity with the changes in trade and tariffs,” indicating that tariff adjustments are influencing client behavior and potentially affecting the bank’s cross‑border financing, trade‑finance services, and risk‑management activities. No other geoeconomic instruments—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were referenced or discussed in the call. Consequently, the firm’s exposure to geoeconomic pressure is limited to tariff considerations, with no mention of additional regulatory or policy constraints affecting its operations or market access.
+
+--- Part 2 ---
+The company acknowledges that announced tariffs introduce a significant degree of uncertainty into its operations. While the transcript does not detail specific cost increases or supply‑chain disruptions, the mention of “uncertainty from the impacts related to announced tariffs” indicates that the firm is monitoring how these import taxes could affect its business. This could encompass potential higher expenses for imported components, altered trade volumes, or shifts in customer demand if tariff‑affected goods become more expensive. No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—are referenced in the call. Thus, the firm’s exposure to geoeconomic pressure is currently limited to the uncertainty surrounding tariffs, with no further elaboration on how these tariffs might materially impact revenue, costs, or strategic decisions.
+",1,0,0,0,0,0,1
+Apple (AAPL),2025,Q4,"
+--- Part 1 ---
+Apple’s earnings call highlighted a clear impact from tariff policy. The company explicitly referenced a $1.4 billion tariff cost for the December quarter and noted that the reduction of China tariffs from 20 % to 10 % had a mitigating effect. These statements confirm that Apple is experiencing cost pressure from import duties on components sourced from China, which in turn influences its gross‑margin calculations and overall profitability. No other geoeconomic instruments—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were mentioned or implied in the discussion. Consequently, Apple’s exposure to geoeconomic pressure is limited to tariff-related costs, with no indication of losses from sanctioned markets, export‑control compliance burdens, or investment‑screening hurdles. The company’s strategy appears to focus on managing tariff impacts through supply‑chain adjustments and cost‑management, while maintaining its product and service growth trajectory. Not affected by other geoeconomic policies.
+
+--- Part 2 ---
+Apple’s earnings call highlights a clear impact from tariff‑related costs, the only geoeconomic pressure explicitly discussed. The company reported approximately $1.1 billion in tariff‑related expenses, a figure that aligns with prior estimates and is factored into the gross‑margin calculation. These tariffs, imposed by importing countries on certain components or finished goods, directly increase production costs and reduce the gross margin on product sales. Apple acknowledges that the tariff burden is “in line with what we had estimated on our last call,” indicating that the company has anticipated and budgeted for these costs, but they still represent a tangible financial drag on profitability.
+
+Beyond tariffs, the transcript contains no references to sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring. Apple does mention significant domestic investment—$600 billion over four years in U.S. manufacturing and advanced AI facilities—but these are presented as corporate strategy rather than government‑provided subsidies. No mention is made of any regulatory review of foreign investment or any government‑mandated restrictions on trade with specific countries.
+
+Because tariffs are the sole geoeconomic policy referenced, Apple’s exposure is limited to the cost impact on its supply chain and product pricing. The company’s strategy appears to involve absorbing these costs while maintaining product pricing and margin targets, as evidenced by the maintenance of a 47.2 % gross margin overall and a 36.2 % margin on products. The company’s emphasis on building a domestic silicon supply chain and expanding U.S. manufacturing capacity may also serve as a hedge against future tariff increases, though this is not explicitly framed as a response to geoeconomic pressure in the call.
+
+In summary, Apple is affected by tariff‑related costs that reduce gross margin, but the company has accounted for these expenses and continues to pursue domestic manufacturing investments. No other geoeconomic policies—sanctions, export controls, boycotts, investment screening, or subsidies—are discussed in the transcript.
+
+--- Part 4 ---
+Apple’s earnings call highlighted that the company is experiencing a tariff headwind that has increased from roughly $1.1 billion to $1.4 billion sequentially. The discussion focused on how these tariffs—imposed by the importing country on imported goods—raise the cost of components and finished products, thereby compressing gross margins and influencing pricing strategy. The company noted that the tariff impact is a form of geoeconomic pressure, but it did not mention any other geoeconomic policies such as sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring production. Consequently, Apple’s exposure to geoeconomic policy is limited to tariffs, which it is managing through cost controls and supply‑chain adjustments. No other geoeconomic pressures were identified in the call.
+",1,0,0,0,0,0,1
+AMD (AMD),2025,Q4,Not affected.,0,0,0,0,0,0,0
+Bank of America (BAC),2025,Q4,"
+--- Part 1 ---
+Bank of America’s fourth‑quarter earnings call highlighted that the primary geoeconomic pressure affecting the bank is the presence of import tariffs. The management team noted that “tax law settled in, the tariffs appear to be manageable and deregulation kicked in,” indicating that the bank has been able to navigate tariff‑related challenges without significant disruption to its operations or profitability. The firm’s exposure to tariffs is mitigated by the broader regulatory environment, which has moved toward deregulation, allowing the bank to maintain its commercial loan growth and client balance expansion. No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshore or friendshore production—were mentioned or implied in the discussion. Consequently, Bank of America’s business is currently impacted only by tariffs, which the company views as manageable within the current policy landscape.
+",1,0,0,0,0,0,1
+Wells Fargo (WFC),2025,Q2,Not affected.,1,0,0,0,0,0,1
+Wells Fargo (WFC),2025,Q3,Not affected.,0,0,0,0,0,0,0
+Wells Fargo (WFC),2025,Q4,Not affected.,0,0,0,0,0,0,0
+Goldman Sachs (GS),2025,Q1,"
+--- Part 1 ---
+GE Aerospace acknowledges that heightened U.S. tariffs on imported components will impose a net cost of approximately $500 million in 2025. The company is actively mitigating this headwind through a combination of cost‑control measures, pricing adjustments, and utilization of government‑backed programs such as duty drawback claims and foreign trade zone expansions. These actions are intended to offset the tariff impact while preserving profitability and maintaining investment in research and development. The firm’s strategy also includes advocacy for the re‑establishment of zero‑tariff aviation regimes, reflecting its sensitivity to trade policy changes. No other geoeconomic pressures—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were discussed in the call. Thus, GE Aerospace’s primary geoeconomic exposure in this earnings presentation is the tariff‑related cost increase and the company’s response to it.
+
+--- Part 2 ---
+The company’s earnings call reveals that tariffs are the sole geoeconomic policy affecting its business. Executives explicitly discuss the potential persistence of a 10 % tariff rate through the year, with reciprocal tariffs expected after a 90‑day pause. They quantify the impact, estimating roughly $500 million in additional costs attributable to tariffs, and note that this figure is a key driver in their guidance for revenue, profit, and free cash flow. The firm also highlights that tariff-related cost pressures were partially offset by operational actions, such as supply‑chain efficiencies and pricing adjustments, and that they are actively preparing to mitigate the tariff impact across segments. No references are made to sanctions, export controls, boycotts, investment screening, or subsidies for onshoring or friendshoring. Consequently, the company’s exposure to geoeconomic pressure is limited to tariff-related trade policy, and its strategy focuses on cost containment and pricing resilience to maintain profitability amid these external trade constraints.
+
+--- Part 3 ---
+The company’s earnings call reveals that tariffs are the sole geoeconomic policy affecting its operations.  The firm explicitly references the “tariffs in place” that have forced a reduction in spare parts and spare engine sales to China, noting that demand in that market may be delayed but is not foregone.  It also discusses the broader impact of tariff‑related headwinds, estimating a $0.5 billion net impact for 2025 and a $100 million impact in Q1, and outlines cost‑control and price‑increase measures to offset these losses.  The management team highlights their advocacy for a return to a zero‑tariff regime, citing discussions with senior administration officials and the sector’s $75 billion trade surplus under the current tariff‑free regime.  No other geoeconomic pressures—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—are mentioned or implied.  Consequently, the company’s exposure is limited to tariff‑induced trade restrictions, which influence its sales mix, pricing strategy, and operational planning, particularly in the Chinese market.  All other geoeconomic policy areas remain unaffected according to the transcript.
+
+--- Part 4 ---
+The company’s earnings call reveals that it is directly impacted by U.S. import tariffs on aircraft parts and related services. Executives discuss a temporary tariff surcharge that will be applied to spare parts and other services to recover the additional costs incurred by the tariffs. They also plan to offset these costs through mid‑to‑high single‑digit price increases on spare parts later in the year, while maintaining a standard catalog price increase schedule. The firm acknowledges that the tariff surcharge is not permanent and will be removed once the tariffs expire. No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—are mentioned or implied in the transcript. Thus, the company’s primary geoeconomic exposure in this call is the tariff regime, which it is managing through pricing adjustments and cost‑control measures.
+
+--- Part 5 ---
+GE Aerospace acknowledges that its business is influenced by a range of geoeconomic pressures, primarily in the form of tariffs and related trade policy adjustments. The company’s leadership explicitly references the “America‑First Trade agenda” and the need to navigate “duty drawbacks” for exporters, indicating that import tariffs on components and materials are a material concern. To mitigate these costs, GE Aerospace has implemented price increases for aftermarket services and new product lines (e.g., LEAP shop visits) and is working closely with suppliers—both large and small—to absorb tariff impacts through contractual adjustments and supply‑chain resilience measures. The discussion also touches on the potential for “recyclical tariffs” and the importance of maintaining inventory levels to meet backlog demands, underscoring the company’s sensitivity to tariff cycles.
+
+In addition to tariffs, the company briefly addresses the sourcing of rare earths and other critical metals amid changing Chinese trade rules. While GE Aerospace reports no immediate supply disruptions, it signals ongoing monitoring of alternative sources and inventory strategies to hedge against potential tariff‑related shortages.
+
+No references were made to sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring. Consequently, GE Aerospace’s exposure to these specific geoeconomic instruments appears negligible or non‑existent at this time.
+
+Overall, GE Aerospace’s earnings call highlights that tariffs and associated trade policy shifts are the primary geoeconomic factors affecting its operations, prompting pricing strategies, supply‑chain adjustments, and proactive engagement with government trade programs. All other geoeconomic categories remain unaddressed in the discussion.
+",1,0,0,0,0,0,1
+Goldman Sachs (GS),2025,Q2,"
+--- Part 2 ---
+Goldman Sachs acknowledges that the “ultimate impact on growth from higher tariffs is yet unknown,” indicating that tariff policy remains a relevant geoeconomic factor for the firm. As a global banking and markets organization, the firm’s operations span multiple jurisdictions and rely on cross‑border trade of financial instruments, technology, and physical infrastructure. While the company has not yet reported a direct hit from tariff increases, the uncertainty surrounding potential new duties on imported goods—such as technology components, office supplies, or even client‑related services—could raise operating costs or alter the pricing of its products. The firm’s emphasis on risk discipline and its focus on maintaining a robust capital buffer (e.g., a 3.4% stress‑capital buffer and a 14.5% CET1 ratio) suggest that it is preparing to absorb any adverse cost shocks that tariffs might generate.
+
+The management team also highlights geopolitical concerns in the Middle East and the lack of finalized trade agreements, underscoring that tariff policy is part of a broader, evolving trade environment. By maintaining a diversified client franchise and a capital‑light business model, Goldman Sachs aims to mitigate the impact of tariff‑related disruptions. The firm’s strategic focus on deploying excess capital into client‑centric initiatives, rather than on speculative or high‑risk ventures, further reduces exposure to tariff‑driven volatility.
+
+In summary, while Goldman Sachs has not yet experienced a measurable effect from tariff changes, the firm recognizes tariffs as a potential geoeconomic pressure that could influence cost structures and client demand. The company’s proactive capital management, risk discipline, and diversified business model are designed to cushion against such impacts, ensuring continued resilience in a complex operating backdrop.
+",1,0,0,0,0,0,1
+Goldman Sachs (GS),2025,Q3,"
+--- Part 1 ---
+Pfizer’s earnings call highlights a single geoeconomic policy that directly impacts its business: U.S. import tariffs. The company announced a three‑year grace period from certain U.S. tariffs, coupled with a commitment to further invest in U.S. manufacturing. This relief removes the cost burden that would otherwise be imposed on imported goods and provides regulatory certainty, enabling Pfizer to plan and execute its manufacturing expansion without the risk of tariff‑related price increases. The grace period effectively mitigates the negative financial impact of tariffs on the company’s supply chain and production costs, while also supporting its broader strategy of domestic investment.
+
+No other geoeconomic pressures were discussed. Pfizer did not mention any sanctions, export controls, boycotts, investment screening, or subsidies to onshore or friendshore production. The company’s reference to a pricing agreement with the U.S. government pertains to prescription drug price alignment, not a tariff or other trade‑policy instrument. Consequently, the only geoeconomic factor affecting Pfizer in this call is the tariff relief, which is a positive influence rather than a constraint. All other potential geoeconomic pressures remain absent from the discussion.
+",1,0,0,0,0,0,1
+Goldman Sachs (GS),2025,Q4,Not affected.,0,0,0,0,0,0,0
+Morgan Stanley (MS),2025,Q2,"
+--- Part 1 ---
+Morgan Stanley’s Q2 2025 earnings call highlighted that the first half of the quarter was “uncertain and volatile” because of U.S. trade policy.  While the firm did not name specific tariffs, the reference to trade policy implies exposure to U.S. tariff measures that can alter import costs, affect client portfolios, and increase market volatility.  The company noted that this uncertainty influenced investor sentiment and prompted clients to seek advice and reposition portfolios, but it did not report any direct financial losses or operational disruptions tied to tariffs.  
+
+No other geoeconomic pressures were mentioned.  The transcript contains no discussion of sanctions, export controls, boycotts, investment‑screening reviews, or subsidies for onshoring or friendshoring.  Regulatory reform was cited only in the context of capital‑regulation changes (e.g., SLR and CCAR proposals) that are domestic and not tied to foreign trade restrictions.  
+
+Thus, Morgan Stanley’s only geoeconomic exposure in this call was the indirect impact of U.S. trade policy—likely tariffs—on market conditions and client behavior.  The firm’s strategy to maintain strong capital deployment, focus on fee‑based advisory services, and leverage regulatory flexibility appears to mitigate any adverse effects from these tariffs, allowing it to sustain robust earnings and client asset growth during a period of heightened trade‑policy uncertainty.
+
+--- Part 2 ---
+The company’s earnings call highlighted the impact of tariff‑related market events on its derivative business. Management noted that derivative results rose versus the previous year as the firm actively supported clients amid tariff‑related market activity. This indicates that the firm’s revenue streams, particularly in derivatives, were influenced by the presence of tariffs imposed by importing countries. No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were discussed or referenced in the transcript. Consequently, the firm’s exposure to geoeconomic pressure is limited to tariffs, with no mention of additional policy impacts.
+
+--- Part 3 ---
+The firm’s earnings call reveals that tariffs are the only geoeconomic policy explicitly or implicitly discussed.  The management team notes that tariff rhetoric has been rising and that the pace and scope of tariff policy execution are “within broadly expected parameters.”  They view this as a catalyst for reducing uncertainty, suggesting that the firm is monitoring tariff developments closely because they can influence cross‑border deal activity, regulatory clarity, and the overall investment climate.  No references are made to sanctions, export controls, boycotts, investment screening, or subsidies for onshoring or friendshoring, and the firm does not indicate any direct impact from those policies.  Consequently, the firm’s exposure to geoeconomic pressure is limited to tariff‑related concerns, which may affect the timing and volume of M&A and other strategic transactions but otherwise does not appear to materially alter its core business operations or financial outlook.
+
+--- Part 4 ---
+Morgan Stanley’s earnings call highlighted the impact of U.S. tariffs on its trading and market‑making activities. The firm noted that, despite the presence of tariffs, retail engagement remained robust and the “buy‑the‑dip” mentality persisted, indicating resilience in client behavior even in a tariff‑laden environment. The discussion suggested that tariff‑related trade disruptions may have modestly affected liquidity flows and repositioning strategies, but the overall effect was mitigated by the firm’s diversified global franchise and strong institutional client base.
+
+No other geoeconomic policies were referenced. The transcript made no mention of sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring. Consequently, Morgan Stanley’s exposure to these specific policy areas was not discussed, and the firm did not indicate any operational or strategic adjustments related to them.
+
+In summary, tariffs were the sole geoeconomic pressure identified in the call, and while they introduced some market volatility, the firm’s broad geographic reach and client mix helped cushion the impact. No other geoeconomic policies were cited as affecting the business.
+",1,0,0,0,0,0,1
+Morgan Stanley (MS),2025,Q3,Not affected.,0,0,0,0,0,0,0
+Morgan Stanley (MS),2025,Q4,Not affected.,0,0,0,0,0,0,0
+American Express (AXP),2025,Q3,Not affected.,0,0,0,0,0,0,0
+Walmart (WMT),2025,Q1,Not affected.,0,0,0,0,0,0,0
+Walmart (WMT),2025,Q2,Not affected.,0,0,0,0,0,0,0
+Walmart (WMT),2025,Q3,Not affected.,0,0,0,0,0,0,0
+Walmart (WMT),2025,Q4,"
+--- Part 3 ---
+Walmart’s earnings call discussion highlights that tariffs remain a relevant factor for the company’s operations and financial performance. During the Q&A, analyst Kelly Bania specifically asked about tariffs and how they might impact earnings. The CEO, Doug McMillon, acknowledged that tariffs are a “headwind” that the company has been managing for many years. He emphasized that Walmart has a dedicated team to navigate tariff changes, mitigate their impact, and pass costs through to consumers when necessary. The company’s strategy involves maintaining flexibility in pricing and supply chain operations to absorb tariff-related cost increases without eroding margins. No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were mentioned or implied in the transcript. Therefore, Walmart’s exposure in this call is limited to tariff-related considerations, which the company actively manages as part of its broader risk mitigation framework.
+
+--- Part 4 ---
+Walmart’s earnings‑call discussion highlights that the company is aware of and monitoring tariff‑related risks, but it does not report any exposure to other geoeconomic instruments such as sanctions, export controls, boycotts, investment screening, or on‑shoring/friend‑shoring subsidies. The CFO explicitly states that there are no explicit assumptions in the guidance regarding tariffs, yet the company believes it can navigate any tariff changes that may arise. No mention is made of sanctions against specific countries or firms, nor of export‑control compliance challenges, nor of any boycott activity or investment‑screening reviews. Likewise, there is no reference to government subsidies aimed at shifting production to the U.S. or allied nations. Consequently, Walmart’s only identified geoeconomic pressure is the potential impact of import tariffs, which the firm acknowledges but expects to manage without material disruption to its operations. All other geoeconomic policy categories are not discussed or relevant in this call.
+",1,0,0,0,0,0,1
+Costco (COST),2025,Q1,"
+--- Part 3 ---
+The company’s earnings call revealed that tariffs are the only geoeconomic policy explicitly discussed.  The CFO acknowledged that tariffs “raise costs” and that the firm has historically faced them, noting that roughly a quarter of its business is non‑food and that a subset of that is imported.  To mitigate tariff impacts, the company has adopted several operational strategies: it has pulled forward inventory purchases to lock in lower prices before tariff changes take effect, it is exploring alternative sourcing locations where feasible, and it has the flexibility to shift or replace SKUs if a particular item’s cost becomes prohibitive.  These measures are intended to cushion the cost shock from tariff increases while maintaining product availability for members.
+
+No other geoeconomic pressures—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were mentioned or implied in the discussion.  Consequently, the firm’s exposure to geoeconomic policy is limited to tariff-related cost pressures, and it has outlined a proactive approach to manage those risks.  The company’s broader strategy remains focused on membership growth, digital channel expansion, and incremental capital investment in warehouses and technology, with no indication that other geoeconomic policies are materially affecting its operations at this time.
+",1,0,0,0,0,0,1
+Costco (COST),2025,Q2,"
+--- Part 1 ---
+Costco Wholesale acknowledges that tariffs represent a significant form of geoeconomic pressure that could materially affect its business. In the call, the CEO explicitly noted that “it is difficult to predict the impact of tariffs,” underscoring the uncertainty surrounding new or existing import duties on goods sold in the United States. The company highlighted that roughly one‑third of its U.S. sales are sourced from imports, with less than half of those imports coming from China, Mexico, and Canada—countries that have been subject to various tariff regimes in recent years. This exposure means that any increase in tariff rates could raise the cost of goods sold, compress gross margins, and potentially force price adjustments that might erode the value proposition that Costco offers its members.
+
+To mitigate these risks, Costco emphasized its strategy of leveraging global buying power, maintaining strong supplier relationships, and pursuing innovation in sourcing and logistics. By negotiating favorable terms and exploring alternative suppliers, the company aims to absorb or offset tariff‑induced cost increases. Additionally, Costco’s focus on operational efficiency—such as higher labor productivity and disciplined SG&A spending—provides a buffer against the margin pressure that tariffs could impose.
+
+While the call did not discuss other geoeconomic instruments such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring or friendshoring, the explicit reference to tariffs confirms that Costco is actively monitoring and preparing for the economic impact of these policies. The company’s proactive stance—highlighting agility and cost‑minimization tactics—suggests that it is positioning itself to maintain competitive pricing and member value even in the face of fluctuating tariff environments. No other geoeconomic pressures were mentioned, so the primary concern remains the potential cost implications of import tariffs on Costco’s supply chain and pricing strategy.
+
+--- Part 3 ---
+The company’s earnings call reveals that tariffs are the sole geoeconomic policy affecting its operations. Executives repeatedly reference the “potential risk around tariffs” and the “fluid” nature of tariff changes on grocery items, especially fresh foods sourced from Mexico and other countries. They note that while some costs may be absorbed internally (e.g., vertically integrated egg production), the company is prepared to pass through price increases to consumers when necessary. The discussion also highlights operational flexibility: the “Treasure Hunt” merchandising model allows the firm to source alternative suppliers from less tariff‑impacted countries, and the reduced SKU strategy is designed to mitigate tariff exposure. No mention is made of sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring. Consequently, the company’s exposure is limited to tariff‑related cost pressures and the need to manage supply‑chain adjustments. All other geoeconomic pressures are absent from the transcript.
+
+--- Part 5 ---
+Costco’s earnings call revealed a single reference to a geoeconomic policy: the potential introduction of tariffs. During a discussion about inflation and pricing strategy, analyst Robert Ohmes noted that “that could change this year depending on what we see with inflation and also with the potential introduction of some tariffs.” This is the only explicit mention of a tariff‑related policy in the transcript. No other geoeconomic pressures—sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were discussed or implied. Consequently, the company’s exposure to geoeconomic policy is limited to the risk that new tariffs could affect its cost structure, supply chain dynamics, and pricing decisions. No other geoeconomic factors were identified as influencing Costco’s business in this call.
+",1,0,0,0,0,0,1
+Coca-Cola (KO),2025,Q2,Not affected.,0,0,0,0,0,0,0
+PepsiCo (PEP),2025,Q3,"
+--- Part 2 ---
+PepsiCo’s earnings call highlights that U.S. tariffs on imported goods have directly affected the company’s financial performance. The management team noted that Q3 margins were impacted by these tariffs, but they anticipate a rebound in Q4 as the tariff effects are mitigated and the company’s cost‑management initiatives take hold. This discussion reflects a clear instance of geoeconomic pressure—tariffs being a tool used by governments to influence trade and economic outcomes. No other geoeconomic policies, such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring, were mentioned or implied in the transcript. Consequently, PepsiCo’s exposure to geoeconomic policy is limited to the tariff environment, and the company’s strategy focuses on navigating these costs while maintaining margin expansion through operational efficiencies and product portfolio adjustments.
+",1,0,0,0,0,0,1
+McDonald's (MCD),2025,Q3,"
+--- Part 2 ---
+McDonald’s acknowledges that the company’s financial outlook is influenced by the tariffs that are currently in place.  The discussion notes that these tariffs “impact our financial targets” and that the firm is monitoring the expected effects on its cost structure and pricing strategy.  While the call does not detail specific tariff rates or the exact goods affected, it is clear that the company is adjusting its menu and value‑pricing initiatives to mitigate the cost pressure that tariffs can impose on imported ingredients, packaging, and equipment.  McDonald’s has emphasized its focus on value and affordability, and its “McValue” platform is positioned to help offset the impact of higher input costs by offering competitive pricing to consumers.
+
+No other geoeconomic policies were referenced in the earnings call.  The company did not discuss sanctions, export controls, boycotts, investment screening, or subsidies for onshoring or friendshoring.  Consequently, McDonald’s is only affected by the tariff environment at this time, and the company’s strategy is to manage the cost implications through menu innovation, value pricing, and operational efficiencies.  
+
+Not affected by any other geoeconomic policies.
+",1,0,0,0,0,0,1
+Nike (NKE),2025,Q1,Not affected.,0,0,0,0,0,0,0
+Nike (NKE),2025,Q2,Not affected.,0,0,0,0,0,0,0
+Nike (NKE),2025,Q3,"
+--- Part 3 ---
+Nike’s earnings call highlights a clear impact from U.S. tariff policy, specifically new duties on imports from China and Mexico. The company explicitly references the “estimated impact from newly implemented tariffs on imports from China and Mexico” in its Q4 guidance, noting that these duties will affect cost structures and, consequently, gross margins. The discussion indicates that the tariffs are a direct source of cost pressure, contributing to the projected 400‑500 basis point decline in Q4 gross margins and a mid‑teen range revenue dip. Nike’s supply chain, which relies heavily on components sourced from China and Mexico, faces higher landed costs, prompting the firm to consider sourcing diversification or cost‑optimization strategies to mitigate margin erosion.
+
+Beyond tariffs, the call mentions “geopolitical dynamics” and “volatile foreign exchange rates” as external uncertainties, but no specific sanctions, export controls, boycotts, investment screening, or subsidies are discussed. The company does not report any loss of markets or compliance challenges tied to sanctions or export controls, nor does it reference any government‑mandated investment reviews or onshore/friendshore subsidies. Therefore, the only geoeconomic pressure explicitly affecting Nike’s business in this transcript is the tariff regime.
+
+In summary, Nike is affected by the U.S. tariffs on imports from China and Mexico, which increase production costs, compress margins, and influence revenue projections. No other geoeconomic policies are mentioned or implied in the call.
+",1,0,0,0,0,0,1
+Starbucks (SBUX),2025,Q1,Not affected.,0,0,0,0,0,0,0
+Starbucks (SBUX),2025,Q3,Not affected.,1,0,0,0,0,0,1
+Starbucks (SBUX),2025,Q4,"
+--- Part 1 ---
+Starbucks’ fourth‑quarter 2025 earnings call highlighted that the company’s operating margin compression was “primarily due to inflation driven by coffee prices, tariffs, and increased labor investments.” The explicit mention of tariffs indicates that the firm is experiencing higher costs from import duties on coffee beans and other imported goods. These tariffs have translated into a 500‑basis‑point decline in non‑GAAP operating margin to 9.4%, and the company has had to adjust pricing and cost‑control strategies to mitigate the impact. The call also noted that coffee price volatility remains a headwind, compounding the tariff‑related cost pressures.
+
+No other geoeconomic policy themes were discussed. The transcript contains no references to sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring. Consequently, Starbucks’ exposure to geoeconomic pressure is limited to the tariff environment affecting its supply chain and cost structure. The company’s strategic focus on cost management, menu innovation, and operational efficiencies is aimed at offsetting these tariff‑induced cost increases. No mention of sanctions‑related market exits, export‑control compliance, boycott‑driven sales declines, investment‑screening hurdles, or government subsidies to shift production was made. Therefore, Starbucks is affected only by tariff‑related geoeconomic pressure, with no other geoeconomic policy impacts identified in this earnings call.
+",1,0,0,0,0,0,1
+Home Depot (HD),2025,Q3,"
+--- Part 4 ---
+The company’s earnings call reveals that it is impacted by tariff‑related geoeconomic pressure.  In the discussion of pricing strategy, the speaker notes that “policy changes were made around tariffs” and that the firm had to make “moderate price moves” to protect its projects.  This indicates that import duties on certain goods or components have altered the cost structure, prompting the company to adjust retail and wholesale pricing to maintain margins.  The tariff environment also likely affects the company’s supply‑chain decisions, as higher duties on imported materials can shift sourcing strategies or increase inventory costs.
+
+No other geoeconomic instruments were referenced.  The transcript contains no mention of sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring.  Consequently, the company’s exposure to geoeconomic policy is confined to tariffs, which influence its pricing, cost management, and potentially its sourcing and distribution decisions.  The company’s strategy appears to focus on mitigating tariff impacts through price adjustments and operational efficiencies, rather than navigating broader sanctions or export‑control regimes.  Thus, the firm’s geoeconomic risk profile is primarily shaped by tariff policy changes that affect its cost base and pricing strategy.
+
+--- Part 5 ---
+The company’s earnings call highlighted that tariffs are a relevant geoeconomic factor, with the management noting that more than half of its inventory is sourced domestically and therefore not subject to import tariffs. This domestic sourcing strategy mitigates the impact of tariff increases on the cost of goods sold and helps maintain pricing stability for consumers. The firm explicitly monitors tariff developments and has positioned its supply chain to reduce exposure, indicating a proactive stance toward potential tariff changes. No other geoeconomic pressures—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were mentioned or implied in the discussion. Consequently, the company’s exposure to geoeconomic policy is limited primarily to tariffs, and its current strategy appears to shield it from significant tariff-related disruptions.
+",1,0,0,0,0,0,1
+Disney (DIS),2025,Q1,Not affected.,0,0,0,0,0,0,0
+Eli Lilly (LLY),2025,Q2,"
+--- Part 2 ---
+The company’s earnings call explicitly references the impact of U.S. tariffs on its business.  It acknowledges that the “potential effect of tariffs remains dynamic” and that the “currently announced tariffs” are expected to have a modest impact on 2025 results, a factor that has already been incorporated into its revenue and earnings guidance.  No other geoeconomic policy is discussed or implied.  The firm does not mention sanctions, export controls, boycotts, investment screening, or subsidies to onshore or friendshore production, and it does not indicate any exposure to these measures.  Consequently, the only geoeconomic pressure affecting the company is the tariff regime, which it expects to be limited in scope and has already accounted for in its financial outlook.  All other geoeconomic categories are not relevant to the firm at this time.
+",1,0,0,0,0,0,1
+Eli Lilly (LLY),2025,Q3,Not affected.,0,0,0,0,0,0,0
+UnitedHealth (UNH),2025,Q2,Not affected.,0,0,0,0,0,0,0
+Johnson & Johnson (JNJ),2025,Q2,"
+--- Part 4 ---
+The company’s earnings call reveals that its business is directly impacted by two key geoeconomic instruments: tariffs and onshore subsidies.  The management team explicitly quantifies the cost of tariffs, estimating a $400 million hit in 2025 that will affect the MedTech segment.  They note that the current tariff landscape is “exclusively related to our MedTech business” and that they will “reinvest the differential” to support pipeline development and product launches.  This indicates that tariff-induced cost increases are a material consideration in the company’s operating margin and capital allocation decisions.
+
+Conversely, the company benefits from a suite of domestic subsidies under the “One Big Beautiful Bill Act.”  The Act’s permanent expensing for domestic R&D, bonus depreciation, and 100 % expensing of qualified production property are highlighted as providing certainty for a $55 billion investment commitment in the United States, including a new facility in North Carolina.  These incentives lower the effective tax burden on onshore production and R&D, thereby improving profitability and encouraging the company to shift manufacturing and research activities to the U.S. market.  The subsidies are explicitly tied to onshore or friendshore production, satisfying the definition of geo‑subsidies.
+
+No discussion of sanctions, export controls, boycotts, or investment screening appears in the transcript.  The company does not report any loss of markets or compliance challenges related to these instruments, nor does it mention any regulatory review of foreign investment.  Therefore, those policy categories are not relevant to the firm’s current earnings outlook.
+
+In summary, the company’s financial performance is affected by tariff costs that erode margins, particularly in MedTech, and by domestic subsidies that enhance onshore investment incentives and reduce tax liabilities.  These two geoeconomic pressures are the only ones explicitly addressed in the call, and they collectively shape the company’s strategic and operational decisions for the remainder of the year.
+",1,0,0,0,0,1,1
+Merck (MRK),2025,Q2,"
+--- Part 1 ---
+Merck & Co. acknowledged that tariff risk remains a consideration for the company, noting that “tariff risk is expected to be minimal for 2025, with further guidance on 2026 pending clarification from U.S. authorities.”  This statement indicates that the firm is monitoring potential import duties that could affect the cost of raw materials or the pricing of its products, particularly in markets where it imports components or sells finished goods.  No other geoeconomic pressures—such as sanctions, export controls, boycotts, investment screening, or subsidies to onshore or friendshore production—were referenced in the call.  Consequently, Merck’s exposure to geoeconomic policy is limited to the tariff risk mentioned, which the company expects to have a negligible impact on its 2025 performance.  No additional geoeconomic factors were identified that would materially affect the firm’s operations or financial results.
+
+--- Part 4 ---
+The company’s earnings call explicitly addresses the potential impact of a 15 % tariff on pharmaceuticals, a clear example of geoeconomic pressure.  The question from Terence Flynn prompted a discussion in which the company acknowledged that the tariff’s timing and scope remain uncertain.  The company’s response emphasized that, because it has already moved a significant portion of its manufacturing to the United States and has implemented robust inventory‑management practices, the immediate effect on its 2025 outlook would be minimal.  The firm indicated that it is monitoring the situation closely and will adjust guidance as more clarity emerges, but it has not identified any other tariffs, sanctions, export controls, boycotts, investment‑screening actions, or subsidies that would materially affect its operations.  Consequently, the only geoeconomic policy discussed in the call is the tariff, and the company’s strategy to mitigate its impact is to rely on domestic production and inventory controls.  No other geoeconomic pressures were mentioned or implied in the transcript.
+",1,0,0,0,0,0,1
+Merck (MRK),2025,Q3,Not affected.,1,0,0,0,0,0,1
+AbbVie (ABBV),2025,Q2,"
+--- Part 1 ---
+AbbVie’s earnings call explicitly references the impact of EU tariff announcements slated for 2026. CFO Rob Michael noted that the company does not anticipate an outsized exposure relative to peers, indicating that while tariffs are a concern, the expected effect on AbbVie’s revenue and pricing is limited. No other geoeconomic pressures—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were mentioned or implied in the discussion. Consequently, AbbVie’s exposure to geoeconomic policy is confined to the tariff environment, with the company projecting that any adverse effects will be modest and manageable within its broader global strategy.
+",1,0,0,0,0,0,1
+AbbVie (ABBV),2025,Q3,Not affected.,0,0,0,0,0,0,0
+Pfizer (PFE),2025,Q3,Not affected.,0,0,0,0,0,0,0
+Abbott (ABT),2025,Q2,"
+--- Part 1 ---
+Abbott Laboratories acknowledges that U.S. tariffs on imported goods are expected to reduce its 2025 results by just under $200 million, a direct financial hit that the company has factored into its earnings guidance.  The firm also notes that its diagnostics segment is being pressured by China’s volume‑based procurement (VBP) policy, which drives lower unit prices and has already contributed to a $700 million headwind in full‑year diagnostics sales.  These two policy‑related headwinds are the only geoeconomic pressures explicitly discussed in the call.  No references were made to sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring, and the company reports no impact from such measures.  Consequently, Abbott’s exposure to geoeconomic policy is limited to the tariff impact and the VBP policy in China, with no other identified geoeconomic risks affecting its business at this time.
+
+--- Part 2 ---
+The company’s earnings call reveals that it is directly impacted by tariff policy.  The management team explicitly references a “just under $200 million” impact from tariffs, indicating that import duties on certain goods or components are affecting the company’s cost structure and profitability.  No other geoeconomic instruments are discussed: there is no mention of sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring.  Consequently, the firm’s exposure to geoeconomic pressure is limited to tariffs alone.  All other potential geoeconomic factors are either not addressed or not relevant to the company’s operations as described in the call.
+
+--- Part 4 ---
+The company’s earnings call reveals that tariffs are a significant geoeconomic factor affecting its business. Executives explicitly discuss the impact of tariffs on inventory and earnings, noting a “headwind” on the bottom line and estimating a less than $200 million negative effect for the year. They also reference the timing of tariff roll‑ins in the second half of the year and the need to manage inventory to mitigate tariff exposure. No other geoeconomic policies—sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—are mentioned or implied. Consequently, the firm’s primary geoeconomic challenge is the cost and timing of tariffs, which influence pricing, inventory strategy, and profitability. No other geoeconomic pressures are identified in the transcript.
+",1,0,0,0,0,0,1
+Abbott (ABT),2025,Q4,"
+--- Part 1 ---
+Abbott Laboratories’ earnings call highlighted the company’s exposure to tariff‑related geoeconomic pressure.  The management team explicitly referenced “new tariffs” in the context of the nutrition business, noting that adjusted gross margin rose to 57.1 % of sales “despite tariffs.”  The tariffs are understood to be import duties imposed by the United States on foreign goods, which have increased the cost of imported raw materials and components used in Abbott’s nutrition products.  In response, Abbott has raised prices to offset higher manufacturing costs, a strategy that has begun to suppress volume growth in the nutrition segment.  The company is therefore navigating a trade‑policy environment that forces it to balance higher input costs against price sensitivity in the consumer‑goods market.
+
+No other geoeconomic instruments were discussed.  The transcript contains no mention of sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring.  Consequently, Abbott’s only identified geoeconomic impact in this call is the tariff regime, which has prompted pricing adjustments, margin management, and a strategic shift toward volume‑driven growth in nutrition.  All other geoeconomic policy areas remain unaffected according to the information provided.
+",1,0,0,0,0,0,1
+ExxonMobil (XOM),2025,Q3,Not affected.,0,0,0,0,0,0,0
+Chevron (CVX),2025,Q3,Not affected.,0,0,0,0,0,0,1
+General Electric (GE),2025,Q1,"
+--- Part 1 ---
+GE Aerospace acknowledges that heightened U.S. tariffs on imported components will impose a net cost of approximately $500 million in 2025. The company is actively mitigating this headwind through a combination of cost‑control measures, pricing adjustments, and utilization of government‑backed programs such as duty drawbacks and foreign trade zone expansions. These actions are intended to offset the tariff impact while preserving margins and maintaining investment in research and development. The firm’s strategy also includes advocacy for the re‑establishment of zero‑tariff aviation regimes, reflecting its sensitivity to trade policy changes. No other geoeconomic pressures—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were discussed in the call. Thus, GE Aerospace’s primary geoeconomic exposure in this quarter revolves around tariff‑related cost increases and the company’s efforts to manage them.
+
+--- Part 2 ---
+The company’s earnings call reveals that tariffs are the sole geoeconomic policy affecting its business. Executives explicitly discuss the anticipation of 10 % tariffs remaining in place through the year, with reciprocal tariffs expected after a 90‑day pause. They estimate that these tariffs will impose roughly $500 million in additional costs, prompting operational actions designed to mitigate the impact. The firm’s guidance reflects this exposure: revenue growth is projected in the low double‑digit range, profit targets are maintained, and free cash flow expectations remain robust, all while acknowledging the tariff‑related cost headwinds. No references are made to sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring. Consequently, the company’s exposure is limited to tariff‑induced cost increases and the strategic measures taken to cushion those effects.
+
+--- Part 3 ---
+The company’s earnings call reveals that tariffs are the sole geoeconomic policy affecting its business.  The firm acknowledges that tariffs currently in place on spare parts and spare engines destined for China have forced a reduction in sales to that region, with the expectation that demand will be delayed rather than eliminated.  This headwind is quantified as a $500 million net impact for the year, prompting the company to pursue SG&A cost controls and price increases to offset the loss.  Management also notes that the tariff regime has historically supported a $75 billion trade surplus for the aviation sector, and they are actively lobbying the administration to return to a zero‑tariff approach.  While the company has not reported any sanctions, export controls, boycotts, investment screening, or subsidies to onshore or friendshore production, the discussion of tariffs alone constitutes a clear instance of geoeconomic pressure.  Consequently, the firm’s revenue projections, pricing strategy, and advocacy efforts are all shaped by the current tariff environment, with no other geoeconomic policies identified as influencing its operations in this call.
+
+--- Part 4 ---
+The company’s earnings call reveals that tariffs are the sole geoeconomic policy affecting its operations. Executives explicitly reference a “tariff surcharge” that the firm is applying to offset the cost impact of import duties on parts and components. They note that this surcharge is temporary and will be removed once the tariffs expire, indicating a direct, short‑term financial burden. To mitigate the tariff effect, the firm plans to implement SG&A cost‑control measures and maintain its usual mid‑to‑high single‑digit price increases for spare parts later in the year. No other geoeconomic pressures—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—are mentioned or implied in the discussion. Thus, the company’s exposure is limited to tariff‑related cost adjustments and pricing strategies aimed at preserving margins during the tariff period.
+
+--- Part 5 ---
+GE Aerospace acknowledges that U.S. tariff policy—particularly the America‑First Trade agenda—directly influences its supply chain and pricing strategy. The company notes that tariffs on imported components and materials have prompted it to work closely with suppliers, both large and small, to manage cost burdens and maintain inventory levels. Larry Culp highlighted the use of duty‑drawback programs to recover some of the tariff costs on exported goods, indicating an active response to tariff-induced cost pressures. The firm also discussed the need to balance price increases against demand sensitivity, especially in the aftermarket, to avoid premature engine retirements while covering tariff‑related expenses.
+
+Rare‑earth and other critical material sourcing is mentioned in the context of changing Chinese export rules. While GE does not currently see significant issues, it is monitoring alternative sources and inventory strategies to mitigate potential supply disruptions that could arise from export controls or tariff adjustments.
+
+No references were made to sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring. Consequently, GE’s exposure is primarily to tariff‑related geoeconomic pressure, with the company actively managing its supply chain, pricing, and compliance to navigate these challenges.
+",1,0,0,0,0,0,1
+General Electric (GE),2025,Q2,Not affected.,0,0,0,0,0,0,0
+General Electric (GE),2025,Q3,"
+--- Part 3 ---
+GE Aerospace’s earnings call highlighted the impact of tariff‑related price surcharges on its services business. During the Q&A, analyst Sheila Kahyaoglu explicitly asked the company to quantify how much of the recent services revenue growth was attributable to internal operational improvements versus tariff price surcharges. The company’s response acknowledged that tariff price surcharges are a factor affecting its cost structure and, consequently, its profitability. This discussion confirms that tariffs—taxes imposed by the importing country on foreign goods—are influencing GE Aerospace’s financial performance, particularly in the services segment where material availability and cost pressures are significant. No other geoeconomic policies such as sanctions, export controls, boycotts, investment screening, or subsidies to onshore/friendshore production were mentioned or implied in the transcript. Thus, GE Aerospace is affected by tariffs as a form of geoeconomic pressure, but not by any other listed geoeconomic policy.
+",1,0,0,0,0,0,1
+General Electric (GE),2025,Q4,Not affected.,0,0,0,0,0,0,0
+Boeing (BA),2025,Q2,"
+--- Part 1 ---
+Boeing’s Q2 2025 earnings call highlighted the impact of trade‑related tariffs on its business. Management noted that the company expects “less than $500 million impact on the input tariffs” for the quarter, underscoring that tariff costs remain a material consideration in its cost structure. The discussion also referenced the successful negotiation of zero‑for‑zero tariff agreements with the EU, UK, and Japan, which are designed to eliminate tariffs on certain product categories and thereby reduce input costs and improve competitiveness in those markets. These agreements are presented as a positive development that mitigates tariff headwinds and supports Boeing’s broader strategy to stabilize production and increase delivery volumes.
+
+No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were mentioned or implied in the transcript. Consequently, Boeing’s exposure to geoeconomic pressure in this call is limited to the tariff environment and the benefits derived from recent trade agreements. The company’s focus remains on leveraging these agreements to manage input costs while continuing to expand its commercial and defense portfolios.
+
+--- Part 3 ---
+Boeing’s earnings call highlighted the company’s exposure to tariff‑related geoeconomic pressure.  Executives noted that input tariffs on imported components—particularly equipment from Japan—have a measurable cost impact, estimated at less than $500 million for the quarter.  The firm emphasized that recent bilateral trade agreements, including a zero‑tariff arrangement with the EU and a similar pact with Japan, have reduced these costs and are expected to continue to benefit order momentum and pricing.  Boeing also stated that it is actively working to mitigate tariff cost pressures through supply‑chain management and that it closely monitors ongoing policy developments to safeguard its commercial aerospace business.
+
+No discussion of sanctions, export controls, boycotts, investment screening, or subsidies to onshore/friendshore production was made, indicating that these policies are not currently affecting the company’s operations.  The focus remained on tariffs as the primary geoeconomic factor, with the company underscoring the importance of a favorable global trade environment for sustaining its backlog and free‑cash‑flow outlook.  Thus, Boeing is affected by tariff‑related geoeconomic pressure but not by the other listed policy categories.
+
+--- Part 4 ---
+Boeing’s earnings call highlighted the company’s exposure to tariff‑related geoeconomic pressure, the only policy area that emerged from the discussion.  The firm explicitly referenced the risk of retaliatory tariffs from China, noting that “making deliveries … hopefully … will resolve that.”  This indicates that Boeing is monitoring the U.S.–China trade environment closely, as any new tariff on U.S. aircraft exports could increase costs for Chinese airlines and reduce demand for Boeing’s product line.  The company also mentioned the importance of the U.S.–Mexico–Canada Agreement (USMCA) program, which governs the volume of parts it imports from Mexico and Canada.  By stressing that the USMCA “stays in the same trade situation,” Boeing is signaling that it is sensitive to any tariff adjustments that could raise the cost of imported fuselage components, engines, or other critical parts.  Additionally, the call referenced the import of fuselage components from Italy and the hope that “zero for zero” negotiations will keep tariffs at zero.  This underscores the company’s reliance on a global supply chain and its vulnerability to import duties that could erode margins or delay production.  While Boeing did not discuss sanctions, export controls, boycotts, investment screening, or subsidies to onshore/friendshore production, the tariff discussion alone qualifies the firm as being affected by geoeconomic pressure.  In sum, Boeing’s business is directly impacted by tariff policy through potential cost increases, supply‑chain disruptions, and the need to adjust pricing and production strategies to mitigate the risk of new or retaliatory duties on its aircraft and imported components.
+",1,0,0,0,0,0,1
+Boeing (BA),2025,Q3,Not affected.,0,0,0,0,0,0,0
+Lockheed Martin (LMT),2025,Q2,"
+--- Part 3 ---
+Lockheed Martin’s earnings call highlighted that the company is experiencing a direct impact from U.S. tariff policy. The CFO noted “quarter‑to‑date tariff impacts of approximately $100 million” and reiterated that tariff headwinds are a key component of the $500 million of cash‑flow headwinds projected for 2025. These tariffs are applied to imported materials and components used in the company’s aerospace and defense products, driving up production costs, compressing margins, and reducing free cash flow. The company’s guidance explicitly incorporates these tariff costs, and the management team has factored them into its financial outlook and backlog projections.
+
+No other geoeconomic policies were discussed. The transcript contains no reference to sanctions, export controls, boycotts, investment screening, or subsidies for onshoring or friendshoring. Consequently, Lockheed Martin’s exposure to these policies is effectively zero in the current call. The only geoeconomic pressure identified is the tariff regime, which is acknowledged as a significant cost driver and a source of operational headwinds.
+
+In summary, Lockheed Martin is affected by U.S. tariff policy, which increases costs and reduces cash flow, but it is not impacted by sanctions, export controls, boycotts, investment screening, or onshore/friendshore subsidies. The company’s management has incorporated tariff impacts into its financial guidance and is monitoring the situation closely.
+",1,1,0,0,0,1,1
+Lockheed Martin (LMT),2025,Q3,Not affected.,0,0,0,0,0,0,0
+Apple (AAPL),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Microsoft (MSFT),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Microsoft (MSFT),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Microsoft (MSFT),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Microsoft (MSFT),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Nvidia (NVDA),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Nvidia (NVDA),2024,Q2,"
+--- Part 1 ---
+Nvidia’s Q2 2024 earnings call highlighted a single geoeconomic concern: potential export controls on its data‑center GPUs to China. The company noted that while current regulations are deemed effective, any future restrictions that prohibit sales to Chinese cloud providers would permanently curtail a market that historically accounts for roughly 20‑25 % of its data‑center revenue. Nvidia emphasized that, in the short term, the impact would be limited, but over the long term the loss of access to China could materially reduce growth prospects and diminish its competitive position in one of the world’s largest AI markets. No other geoeconomic pressures—tariffs, sanctions, boycotts, investment screening, or subsidies for onshoring/friendshoring—were discussed or implied in the call. Consequently, Nvidia’s exposure is confined to export‑control risk, with the company actively monitoring regulatory developments and assessing their potential financial implications. All other geoeconomic policy categories remain unaffected according to the transcript.
+",0,0,1,0,0,0,1
+Nvidia (NVDA),2024,Q3,Not affected.,0,0,1,0,0,0,1
+Alphabet (GOOGL),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Alphabet (GOOGL),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Alphabet (GOOGL),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Amazon (AMZN),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Amazon (AMZN),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Amazon (AMZN),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Amazon (AMZN),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Meta (META),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Meta (META),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Tesla (TSLA),2024,Q1,"
+--- Part 5 ---
+Tesla’s discussion during the investor‑day call highlighted a single geoeconomic lever: the U.S. Inflation Reduction Act (IRA) incentives that favor domestic battery and vehicle production. The company emphasized that the IRA’s tax credits and subsidies create a stronger demand for U.S.‑made cells, which in turn has motivated Tesla to accelerate its own battery cell manufacturing (the 4680 program) and to secure upstream supply‑chain agreements. By producing batteries domestically, Tesla can capture the IRA benefits, reduce exposure to foreign‑country price volatility, and maintain a competitive edge over other automakers that rely on overseas suppliers.
+
+No tariffs, sanctions, export controls, boycotts, or investment‑screening discussions were mentioned. Tesla did not report any loss of market access or compliance burdens tied to these policies. The company’s focus remained on internal cost‑reduction initiatives, such as the on‑box manufacturing approach and the 4680 cell’s economies of scale, rather than on external trade restrictions.
+
+Thus, Tesla is affected primarily by the subsidy component of geoeconomic pressure—the IRA incentives that shape its production strategy and cost structure. The company’s response to this policy is to deepen its domestic manufacturing footprint, secure supply‑chain control, and leverage the financial benefits of the IRA to support its growth and innovation plans. All other geoeconomic policy categories appear to have no direct impact on Tesla’s business as reflected in this call.
+",0,0,0,0,0,1,1
+Tesla (TSLA),2024,Q2,"
+--- Part 1 ---
+Tesla’s earnings call highlighted that the company is currently dealing with tariffs imposed on both raw materials and finished goods. These import duties increase the cost of components and finished vehicles, which can squeeze margins and potentially lead to higher retail prices. To mitigate the impact, Tesla is actively working to offset tariff costs through supply‑chain localization, expanding production capacity in the United States, Europe, and China, and adjusting financing and pricing strategies. No other geoeconomic pressures—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were mentioned or implied in the discussion. Thus, the firm’s exposure to geoeconomic policy is limited to the tariff environment affecting its manufacturing and supply chain operations.
+
+--- Part 2 ---
+Tesla’s earnings call highlighted a single geoeconomic pressure: the prospect of U.S. tariffs on vehicles manufactured in Mexico. Elon Musk noted that President Trump has signaled “heavy tariffs” on Mexican‑produced vehicles, which directly threatens the viability of Tesla’s planned Giga Mexico facility. The company’s leadership expressed uncertainty about proceeding with large‑scale investment in Mexico until the political and tariff environment is clarified. This potential tariff would raise the cost of vehicles exported from Mexico to the U.S., potentially eroding price competitiveness, increasing supply‑chain costs, and forcing Tesla to re‑evaluate its production mix and logistics. The company’s strategy appears to shift focus toward expanding capacity at existing U.S. plants, such as Giga Texas, to mitigate tariff exposure.
+
+No other geoeconomic policies were discussed. Tesla did not mention sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring. Consequently, the only geoeconomic impact identified in the call is the tariff threat on Mexican production, which could influence Tesla’s investment decisions, cost structure, and geographic production strategy. All other geoeconomic categories remain unaffected according to the transcript.
+
+--- Part 4 ---
+Tesla’s earnings call revealed that the company is directly impacted by the tariff regime imposed by European authorities on cars imported from China.  The CFO explained that while Tesla was not selected for the first round of tariff assessments, it was examined in the second round, leading the company to adjust its import strategy.  Tesla is now building right‑hand‑drive Model Ys in Berlin and delivering them to the UK, while still importing Model 3s from Shanghai, but it is actively evaluating alternative sourcing and production locations to mitigate tariff costs.  The discussion also touched on the potential effect of tariffs on the import of batteries from China into the U.S., although specific details were not provided.  No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were mentioned or implied in the transcript.  Consequently, the only geoeconomic pressure affecting Tesla in this call is the European tariff regime, which is prompting operational adjustments in its supply chain and production footprint.
+",1,0,0,0,0,1,1
+Tesla (TSLA),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Tesla (TSLA),2024,Q4,Not affected.,1,0,0,0,0,0,1
+Broadcom (AVGO),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Broadcom (AVGO),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Broadcom (AVGO),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Broadcom (AVGO),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Adobe (ADBE),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Adobe (ADBE),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Salesforce (CRM),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Salesforce (CRM),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Salesforce (CRM),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Salesforce (CRM),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Cisco (CSCO),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Cisco (CSCO),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Cisco (CSCO),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Cisco (CSCO),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Oracle (ORCL),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Oracle (ORCL),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Oracle (ORCL),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Oracle (ORCL),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Intel (INTC),2024,Q1,Not affected.,0,0,0,0,0,1,1
+Intel (INTC),2024,Q2,"
+--- Part 1 ---
+Intel’s Q2 2024 earnings call highlighted the impact of new export‑control restrictions announced in May. The company noted that these restrictions “unexpectedly timed” and had a direct effect on its profitability, prompting a discussion of compliance costs and potential supply‑chain disruptions. Export controls, as a form of geoeconomic pressure, limit the sale of certain technologies to specific countries or end‑users, thereby constraining Intel’s ability to serve markets that rely on its advanced processors and foundry services. The company’s response included an emphasis on accelerating internal production capabilities (e.g., ramping Intel 18A and Panther Lake) to mitigate the risk of external restrictions and to maintain market share in key segments such as AI PCs and data‑center CPUs.
+
+No other geoeconomic policies—tariffs, sanctions, boycotts, investment screening, or subsidies for onshoring/friendshoring—were mentioned or implied in the call. Intel’s focus remained on navigating export‑control compliance while pursuing its broader strategy of cost discipline, capital efficiency, and product innovation. Thus, the company’s business is affected primarily by export‑control restrictions, with no evidence of impact from tariffs, sanctions, boycotts, investment screening, or geo‑subsidies during this earnings discussion.
+
+--- Part 2 ---
+Intel’s earnings call highlights a clear impact from export‑control measures, specifically an export license restriction that has curtailed sales in China. The company reports that this restriction “negatively impacted our client business in China,” leading to a measurable dip in revenue for its client segment. The CFO notes that the restriction contributed to a modest negative effect on overall revenue and that the company expects a “continued modest negative impact from export controls” in the coming quarters. This export‑control pressure is the sole geoeconomic factor explicitly discussed; there is no mention of tariffs, sanctions, boycotts, investment screening, or subsidies to onshore or friendshore production.
+
+Because export controls are a form of geoeconomic pressure, Intel’s exposure to this policy is captured under the broader geoeconomic umbrella. The company’s strategy to mitigate the impact includes reducing capital expenditures, accelerating the ramp of manufacturing in Ireland (despite higher wafer costs), and shifting focus toward AI server investments that are less sensitive to export‑control constraints. The CFO also signals that the company will continue to monitor export‑control developments and adjust its product and market mix accordingly.
+
+In summary, Intel is affected by export‑control restrictions that limit its ability to sell certain products in China, resulting in reduced client revenue and a modest negative impact on overall earnings. No other geoeconomic policies are referenced in the call.
+
+--- Part 3 ---
+Intel’s earnings call focused almost exclusively on its internal restructuring and the IDM 2.0 strategy. The only geoeconomic policy explicitly referenced was the U.S. CHIPS Act, a federal subsidy program that provides grants and tax incentives to encourage domestic semiconductor manufacturing. Executives highlighted that the company remains “comfortably able to execute against those milestones” and that the CHIPS grant “provides a solid foundation” for its foundry and product development plans. The subsidies are portrayed as a key enabler for bringing advanced process nodes (e.g., Panther Lake) back in‑house, improving capital efficiency, and supporting the company’s long‑term revenue and margin targets.
+
+No tariffs, sanctions, export controls, boycotts, or investment‑screening discussions appeared in the transcript. Consequently, Intel’s exposure to other forms of geoeconomic pressure is minimal in this call. The company’s strategy and financial outlook are framed around leveraging the CHIPS Act to offset costs, accelerate ramp‑up of new technologies, and maintain competitiveness in a market where external foundry capacity is also being used. In short, Intel’s geoeconomic impact in this earnings call is limited to the benefits derived from the CHIPS Act subsidy program, with no other policy‑related constraints or opportunities mentioned.
+",0,0,1,0,0,1,1
+Intel (INTC),2024,Q3,Not affected.,0,0,0,0,0,1,1
+Netflix (NFLX),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Netflix (NFLX),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Netflix (NFLX),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Netflix (NFLX),2024,Q4,Not affected.,0,0,0,0,0,0,0
+JPMorgan Chase (JPM),2024,Q1,Not affected.,0,0,0,0,0,0,0
+JPMorgan Chase (JPM),2024,Q2,Not affected.,0,0,0,0,0,0,0
+JPMorgan Chase (JPM),2024,Q3,Not affected.,0,0,0,0,0,0,0
+JPMorgan Chase (JPM),2024,Q4,"
+--- Part 5 ---
+JPMorgan’s earnings call included a brief reference to tariffs as a potential source of vulnerability. During the Q&A, analyst Ebrahim Poonawala explicitly asked the CFO to comment on “areas of vulnerability, be it because of tariffs,” indicating that the firm recognizes that tariff policies could impact its operations or credit portfolio. However, the CFO and CEO did not elaborate on specific tariff‑related risks, such as increased costs for imported materials, reduced cross‑border lending, or changes in trade flows that could affect corporate or consumer credit. No other geoeconomic policies—sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were mentioned or implied in the discussion. Consequently, JPMorgan’s exposure appears limited to the general awareness of tariff risks, with no detailed impact analysis disclosed in this call.
+",1,0,0,0,0,0,1
+Visa (V),2024,Q1,"
+--- Part 2 ---
+Visa’s earnings call highlighted a single geoeconomic pressure: investment screening. The company announced its intent to acquire a majority stake in Prosa, a Mexican payments processor, and explicitly stated that “the investment is subject to regulatory review.” This indicates that the transaction will undergo government scrutiny to assess compliance with national security, critical infrastructure, or public interest criteria. The regulatory review could delay the closing of the deal, increase compliance costs, and potentially alter the expected benefits of the acquisition. Visa’s broader strategy of expanding into new regions—such as the Mexican market—relies on navigating such investment screening processes, which may affect timelines, capital allocation, and the realization of projected growth from the acquisition. No tariffs, sanctions, export controls, boycotts, or subsidies to onshore or friendshore production were discussed, so those geoeconomic pressures do not appear to impact Visa in this call. Thus, Visa’s exposure to geoeconomic policy in this quarter is limited to the investment screening associated with its Prosa acquisition, which could influence the speed and cost of its expansion into Mexico and potentially other foreign markets.
+",0,1,0,0,1,0,1
+Visa (V),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Visa (V),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Visa (V),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Mastercard (MA),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Mastercard (MA),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Mastercard (MA),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Mastercard (MA),2024,Q4,"
+--- Part 4 ---
+Mastercard’s earnings call included a brief discussion of potential tariff impacts, triggered by a question from an analyst about a “widespread tariff” that could be applied. The CEO acknowledged that while tariffs are a form of geoeconomic pressure, the company’s core business is not in the import‑export sector, so any effect would be indirect—through customers or partners who might face higher costs or regulatory changes. Mastercard emphasized that it is monitoring digital trade policy developments in the U.S., Europe, and ASEAN, and that it is engaging proactively with regulators on these issues. No other geoeconomic policies—sanctions, export controls, boycotts, investment screening, or subsidies to onshore/friendshore—were mentioned or implied in the call. Consequently, Mastercard’s exposure to geoeconomic pressure is limited to the potential indirect effects of tariffs and the broader digital trade policy environment, with no direct operational impact reported at this time.
+",1,0,0,0,0,0,1
+Bank of America (BAC),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Bank of America (BAC),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Bank of America (BAC),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Bank of America (BAC),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Wells Fargo (WFC),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Wells Fargo (WFC),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Wells Fargo (WFC),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Wells Fargo (WFC),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Goldman Sachs (GS),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Goldman Sachs (GS),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Goldman Sachs (GS),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Goldman Sachs (GS),2024,Q4,"
+--- Part 1 ---
+Dollar Tree acknowledges that tariffs represent a significant geoeconomic risk to its business.  As a large retailer that imports a wide range of goods, the company has explicitly discussed the impact of tariff variability on its supply chain and earnings.  In the earnings call, management highlighted that they have “multiple contingencies in place to address a variety of tariff scenarios” and outlined specific mitigation tactics such as negotiating supplier cost concessions, adjusting product specifications, dropping non‑economical items, shifting country of origin, and leveraging the flexibility of its multi‑price strategy.  These measures are intended to reduce the financial impact of higher import duties and to preserve profitability in the face of changing trade policies.
+
+No other geoeconomic pressures were mentioned.  The transcript contains no references to sanctions, export controls, boycotts, investment screening, or subsidies for onshoring or friendshoring.  Consequently, Dollar Tree’s exposure to geoeconomic policy is limited to tariffs, and the company’s response is focused on supply‑chain resilience and cost‑management strategies to mitigate tariff‑related risks.
+
+--- Part 2 ---
+The company’s earnings call reveals that tariffs are the sole geoeconomic policy affecting its operations.  The firm explicitly references the 10 % tariff on Chinese imports announced on February 4, the additional 10 % tariff on China and 25 % tariff on Canada and Mexico announced in March, and the potential for further tariff rounds.  It quantifies the expected incremental cost of these tariffs—$15 – $20 million per month for the first round and roughly $20 million per month for the second—while noting that mitigation efforts have offset more than 90 % of the initial impact.  The discussion also highlights the uncertainty and volatility introduced by the tariff regime, the need for ongoing mitigation, and the possibility that future tariff changes or “waterfall effects” could erode margins if not managed.  The company’s supply‑chain strategy is adapted to this environment: it diversifies country‑of‑origin sourcing, maintains flexibility to shift sourcing quickly, and plans to replace lost distribution‑center capacity while managing additional transportation costs.  No other geoeconomic pressures—such as sanctions, export controls, boycotts, investment screening, or subsidies—are mentioned.  Consequently, the firm’s exposure is confined to tariff‑related cost increases and the operational adjustments required to mitigate those costs, with a clear emphasis on maintaining margin stability and supply‑chain resilience in the face of ongoing tariff uncertainty.
+
+--- Part 3 ---
+Dollar Tree’s earnings call focused almost exclusively on the impact of U.S. tariffs on its supply chain and cost structure.  The company’s leadership repeatedly referenced the first‑round tariffs imposed on Chinese imports and the anticipated second‑round tariffs that could hit the business in the near term.  Management explained that they had already incorporated the first‑round tariffs into their 2025 forecast and had achieved a 90 % mitigation rate through a combination of product specification changes, supplier negotiations, and multi‑pricing strategies.  They also highlighted ongoing efforts to prepare for the April 2 reciprocal tariffs, noting uncertainty around the exact scope and timing of the second‑round duties.
+
+The discussion emphasized the financial implications of these tariffs: an unmitigated cost of roughly $20 million per month, or about $0.85 per share, if the duties were fully applied.  Dollar Tree’s CFO and COO stressed that the company’s strong balance sheet—bolstered by proceeds from the Family Dollar sale and a healthy cash position—provides flexibility to offset margin erosion.  They indicated that excess cash could be deployed to support share repurchases or to buffer the impact of tariff‑related cost increases, thereby protecting earnings per share.
+
+No other geoeconomic policies were mentioned.  The transcript contains no references to sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring.  Consequently, the company’s exposure is limited to tariff‑related trade policy.  The call’s focus on tariff mitigation, cost management, and balance‑sheet resilience demonstrates how Dollar Tree is navigating the geoeconomic pressure exerted by U.S. tariff policy, while remaining unimpacted by other forms of trade or economic coercion discussed in the transcript.
+
+--- Part 5 ---
+Dollar Tree’s earnings call highlighted that the company is directly impacted by U.S. tariff policy. Executives repeatedly referenced the first‑round tariffs, noting that they have mitigated roughly 90 % of the impact through sourcing and pricing strategies, while the remaining 10 % is expected to be absorbed via higher prices or other adjustments. The discussion emphasized that tariffs are a significant component of the current cost environment, prompting the use of multi‑pricing tactics and targeted product sourcing (e.g., Mexican‑made prayer candles) to manage margin pressure. No other geoeconomic instruments—such as sanctions, export controls, boycotts, investment screening, or onshore/friendshore subsidies—were mentioned or implied in the call. Consequently, Dollar Tree’s exposure to geoeconomic pressure is confined to tariff‑related effects, which the company is actively mitigating through pricing and sourcing decisions.
+",1,0,0,0,0,0,1
+Morgan Stanley (MS),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Morgan Stanley (MS),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Morgan Stanley (MS),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Morgan Stanley (MS),2024,Q4,Not affected.,0,0,0,0,0,0,0
+American Express (AXP),2024,Q1,Not affected.,0,0,0,0,0,0,0
+American Express (AXP),2024,Q2,Not affected.,0,0,0,0,0,0,0
+American Express (AXP),2024,Q3,Not affected.,0,0,0,0,0,0,0
+American Express (AXP),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Walmart (WMT),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Walmart (WMT),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Walmart (WMT),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Walmart (WMT),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Costco (COST),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Costco (COST),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Costco (COST),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Costco (COST),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Coca-Cola (KO),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Coca-Cola (KO),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Coca-Cola (KO),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Coca-Cola (KO),2024,Q4,"
+--- Part 5 ---
+The company’s earnings call reveals that it is directly impacted by import tariffs, specifically those levied on aluminum used in beverage packaging. The CEO and CFO discuss the potential to shift packaging mix away from aluminum cans toward plastic PET or other alternatives in response to a projected 25 % rise in aluminum prices. This indicates a strategic response to tariff-induced cost pressures, as higher tariffs on imported aluminum would increase the cost of aluminum cans, thereby affecting the company’s cost structure and pricing strategy. The discussion also touches on the broader implications of packaging costs on the U.S. business, noting that while the impact is manageable, it remains a factor that must be monitored and mitigated.
+
+No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—are mentioned or implied in the transcript. The company’s focus is on navigating tariff-related cost increases rather than dealing with broader geopolitical trade restrictions or incentives. Consequently, the firm’s geoeconomic exposure is limited to tariff-related pressures on its packaging supply chain, and it is actively exploring mix adjustments to cushion the impact.
+",1,0,0,0,0,0,1
+PepsiCo (PEP),2024,Q3,Not affected.,0,0,0,0,0,0,0
+PepsiCo (PEP),2024,Q4,Not affected.,0,0,0,0,0,0,0
+McDonald's (MCD),2024,Q3,Not affected.,0,0,0,0,0,0,0
+McDonald's (MCD),2024,Q4,Not affected.,1,0,0,0,0,0,1
+Nike (NKE),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Nike (NKE),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Nike (NKE),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Starbucks (SBUX),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Starbucks (SBUX),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Starbucks (SBUX),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Starbucks (SBUX),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Home Depot (HD),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Home Depot (HD),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Home Depot (HD),2024,Q3,Not affected.,1,0,0,0,0,0,1
+Home Depot (HD),2024,Q4,"
+--- Part 4 ---
+The company’s earnings call reveals that tariffs are the only geoeconomic policy explicitly discussed. The CEO notes that “tariffs is – obviously a lot of discussion on what rates would be and what countries would be impacted and what categories of goods,” and that the firm has a “best team to manage through any tariff environment which would impact the industry broadly.”  The company also highlights its diversification efforts out of certain concentrations and countries over the past six to seven years as a mitigation strategy.  No references are made to sanctions, export controls, boycotts, investment screening, or subsidies for onshoring or friendshoring, and there is no mention of any other geoeconomic pressure.  Consequently, the firm’s exposure is limited to tariff-related risks, which it claims to manage proactively through diversification and a strong compliance team.  All other geoeconomic policy categories are not addressed in the call.
+",1,0,0,0,0,0,1
+Disney (DIS),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Disney (DIS),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Disney (DIS),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Disney (DIS),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Eli Lilly (LLY),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Eli Lilly (LLY),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Eli Lilly (LLY),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Eli Lilly (LLY),2024,Q4,Not affected.,0,0,0,0,0,0,0
+UnitedHealth (UNH),2024,Q1,Not affected.,0,0,0,0,0,0,0
+UnitedHealth (UNH),2024,Q2,Not affected.,0,0,0,0,0,0,0
+UnitedHealth (UNH),2024,Q3,Not affected.,0,0,0,0,0,0,0
+UnitedHealth (UNH),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Johnson & Johnson (JNJ),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Johnson & Johnson (JNJ),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Johnson & Johnson (JNJ),2024,Q3,"
+--- Part 2 ---
+Johnson & Johnson’s third‑quarter earnings call highlighted a single geoeconomic pressure that materially impacted its business: the sanctions imposed on Russia. The company explicitly referenced “lapping prior‑year impacts from Russia sanctions,” indicating that revenue from Russian markets or sales to Russian entities had been curtailed or eliminated due to the U.S. and allied sanctions regime. This loss is reflected in the reported decline in contact lens and surgical vision segments, where the company noted that sanctions contributed to a negative impact of approximately 110 basis points in the surgical vision category and a broader revenue shortfall in the contact lens business.
+
+No other tariffs, export controls, boycotts, investment screening actions, or subsidies to onshore or friend‑shoring were mentioned or implied in the transcript. The discussion of China’s voluntary business practices (VBP) and anti‑corruption campaign, while politically relevant, does not constitute a formal export control or tariff measure. Likewise, references to Argentina hyperinflation, OECD Pillar Two tax treatment, or the company’s internal R&D and acquisition activities are unrelated to geoeconomic policy pressures.
+
+Therefore, the only geoeconomic factor affecting Johnson & Johnson in this earnings call was the sanctions on Russia, which led to a measurable revenue impact and prompted the company to adjust its outlook for the affected segments. All other geoeconomic policy categories remain unaddressed in the call.
+",0,1,0,0,0,0,1
+Johnson & Johnson (JNJ),2024,Q4,Not affected.,0,1,0,0,0,0,1
+Merck (MRK),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Merck (MRK),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Merck (MRK),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Merck (MRK),2024,Q4,"
+--- Part 5 ---
+Merck’s earnings call highlighted a single geoeconomic policy—tariffs—though the company’s exposure is limited.  The UBS analyst asked about “tariff news” that emerged over the weekend, prompting CFO Caroline Litchfield to explain that Merck’s manufacturing footprint in China, Mexico, and Canada is very small.  She noted that any tariffs proposed by the U.S. government would have an “immaterial” impact on the company’s supply chain and overall business.  Merck will continue to monitor the evolving tariff landscape, but the firm remains confident that its global supply network can absorb any changes without significant disruption.
+
+No other geoeconomic pressures were discussed.  The transcript contains no references to sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring.  Consequently, Merck’s only geoeconomic concern mentioned is the potential effect of U.S. tariffs, which the company assesses as minimal and manageable.  The firm’s strategy is to keep a close watch on tariff developments while maintaining confidence in its supply chain resilience and global reach.
+",1,0,0,0,0,0,1
+AbbVie (ABBV),2024,Q1,Not affected.,0,0,0,0,0,0,0
+AbbVie (ABBV),2024,Q2,Not affected.,0,0,0,0,0,0,0
+AbbVie (ABBV),2024,Q3,Not affected.,0,0,0,0,0,0,0
+AbbVie (ABBV),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Pfizer (PFE),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Pfizer (PFE),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Pfizer (PFE),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Pfizer (PFE),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Abbott (ABT),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Abbott (ABT),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Abbott (ABT),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Abbott (ABT),2024,Q4,Not affected.,0,0,0,0,0,0,0
+ExxonMobil (XOM),2024,Q1,"
+--- Part 4 ---
+The company’s earnings call highlights the impact of U.S. federal subsidies—specifically the Inflation Reduction Act (IRA) incentives for green hydrogen production—on its Baytown project. The CEO notes that the IRA’s tax credits and other incentives are sufficient to justify the investment, indicating a direct benefit from onshore subsidies aimed at encouraging domestic clean‑energy production. No other geoeconomic pressures such as tariffs, sanctions, export controls, boycotts, or investment screening are discussed. Thus, the company is affected only by the onshore subsidy policy, which supports its green hydrogen initiative.
+",0,0,0,0,0,1,1
+ExxonMobil (XOM),2024,Q2,Not affected.,0,0,0,0,0,0,0
+ExxonMobil (XOM),2024,Q3,Not affected.,0,0,0,0,0,0,0
+ExxonMobil (XOM),2024,Q4,"
+--- Part 1 ---
+ExxonMobil’s Q4 2024 earnings call highlighted two key geoeconomic pressures that shape its business strategy. First, the company noted the impact of a U.S. moratorium on new LNG export facilities, an export‑control measure that limits its ability to expand LNG exports. This restriction forces ExxonMobil to adjust project timelines, reduce potential export volumes, and seek alternative markets or technologies to maintain revenue streams. Second, the firm emphasized the importance of federal incentives, specifically the Section 45V tax credit under the Inflation Reduction Act, which subsidizes low‑carbon hydrogen production. These subsidies make the Baytown low‑carbon hydrogen project economically viable and support the company’s transition into higher‑margin, lower‑emission markets.
+
+While ExxonMobil faces no direct tariffs, sanctions, boycotts, or investment‑screening challenges mentioned in the call, the export‑control policy and the targeted subsidies represent the primary geoeconomic levers affecting its operations. The company’s strategy therefore includes navigating export restrictions and leveraging government incentives to sustain growth and maintain competitiveness in both traditional and emerging energy markets.
+
+--- Part 2 ---
+The company’s earnings‑call discussion explicitly references the possibility of North American tariffs, particularly in the context of its upstream and downstream operations in Canada and the United States. The CEO acknowledges that while tariffs could shift costs, the firm’s strategy is to maintain a low‑cost supply base and to continue delivering high‑value products efficiently. He emphasizes that tariffs would not fundamentally alter the company’s cost structure or competitive positioning; rather, any impact would be absorbed through operational efficiencies and pricing adjustments. No other geoeconomic policies—such as sanctions, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—are mentioned or implied in the transcript. Consequently, the company’s exposure is limited to the tariff scenario, which it expects to manage without significant disruption to its business model.
+",1,0,1,0,0,1,1
+Chevron (CVX),2024,Q1,Not affected.,0,1,1,0,0,0,1
+Chevron (CVX),2024,Q2,"
+--- Part 4 ---
+Chevron’s earnings call highlighted the company’s exposure to U.S. sanctions on Venezuela. The CEO noted that Chevron’s operations in Venezuela are conducted “in compliance with their laws as well as the laws of the U.S., which in this particular case are administered under a general license issued by the Treasury Department.” This statement confirms that Chevron is operating under a U.S. sanctions regime that requires a specific Treasury license. The company’s focus on safety of employees, integrity of assets, and compliance with both Venezuelan and U.S. law underscores the operational constraints imposed by the sanctions. While the company can continue to operate in Venezuela under the general license, it must remain vigilant to changes in the political environment and any updates to the sanctions framework that could affect its ability to transact, finance, or sell assets. No other geoeconomic policies—tariffs, export controls, boycotts, investment screening, or subsidies—were discussed in the call. Thus, Chevron’s primary geoeconomic exposure in this context is the U.S. sanctions regime governing its Venezuelan operations, which shapes its compliance strategy and operational risk management.
+",0,1,0,0,0,0,1
+Chevron (CVX),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Chevron (CVX),2024,Q4,"
+--- Part 3 ---
+The company’s earnings call discussion reveals that it is directly affected by U.S. sanctions on Venezuela. The CEO acknowledges that sanctions are in place and that the firm is the sole U.S. company operating on the ground there. Consequently, the company must navigate strict compliance requirements, limit certain financial and operational transactions, and ensure that its activities do not violate U.S. law. The firm emphasizes its focus on safety, environmental protection, and adherence to all applicable sanctions, while also engaging with the government to inform policy decisions.
+
+No tariffs, export controls, boycotts, investment screening, or subsidies to onshore or friendshore production were mentioned. The discussion of recent U.S. executive orders is framed as a potential influence on operations but does not constitute a specific geoeconomic pressure beyond the sanctions context. Therefore, the company’s exposure to geoeconomic policy is limited to the sanctions regime in Venezuela, with no other identified impacts from tariffs, export controls, boycotts, investment screening, or subsidies.
+",0,1,0,0,0,0,1
+General Electric (GE),2024,Q1,Not affected.,0,0,0,0,0,0,0
+General Electric (GE),2024,Q2,Not affected.,0,0,0,0,0,0,0
+General Electric (GE),2024,Q3,Not affected.,0,0,0,0,0,0,0
+General Electric (GE),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Caterpillar (CAT),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Caterpillar (CAT),2024,Q4,"
+--- Part 5 ---
+Caterpillar’s Q4 2024 earnings call revealed that the company is primarily concerned with the potential impact of U.S. tariffs on imported components, particularly those sourced from China. The CEO acknowledged that while the company has a substantial U.S. manufacturing footprint and is a net exporter outside the United States, it still monitors tariff developments closely and has contingency plans in place. The firm’s strategy of producing regionally for region, coupled with its large domestic manufacturing base, is intended to mitigate the risk of tariff-induced cost increases. Caterpillar indicated that it will adjust sourcing and production decisions as needed, potentially shifting more production to the U.S. or other regions to avoid tariff exposure. The company also noted that it has not yet faced sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring, and therefore those geoeconomic pressures are not currently affecting its operations. In summary, Caterpillar’s exposure to geoeconomic policy is limited to the threat of tariffs on imported components, and the company is proactively managing this risk through strategic sourcing and production flexibility.
+",1,0,0,0,0,0,1
+Boeing (BA),2024,Q1,Not affected.,0,1,0,0,0,0,1
+Boeing (BA),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Boeing (BA),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Boeing (BA),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Lockheed Martin (LMT),2024,Q1,Not affected.,0,0,0,0,0,0,0
+Lockheed Martin (LMT),2024,Q2,Not affected.,0,0,0,0,0,0,0
+Lockheed Martin (LMT),2024,Q3,Not affected.,0,0,0,0,0,0,0
+Lockheed Martin (LMT),2024,Q4,Not affected.,0,0,0,0,0,0,0
+Apple (AAPL),2023,Q1,"
+--- Part 4 ---
+Apple’s earnings call highlighted the company’s engagement with the U.S. CHIPS Act, a federal subsidy program designed to incentivize domestic semiconductor manufacturing. The discussion revealed that Apple is positioning itself as a major customer for TSMC’s Arizona facility, indicating a strategic shift toward onshoring critical components. This subsidy is expected to influence Apple’s supply chain dynamics by potentially increasing manufacturing costs due to higher domestic production expenses, but it also offers benefits such as reduced reliance on foreign supply chains, enhanced control over component quality, and alignment with U.S. national security priorities.
+
+No other geoeconomic pressures were explicitly or implicitly referenced. The transcript contained no mention of tariffs, sanctions, export controls, boycotts, or investment screening. While the company acknowledged “headwinds,” these were not tied to specific trade or regulatory restrictions. Consequently, Apple’s exposure to geoeconomic policy is limited to the positive influence of the CHIPS Act subsidy, with no reported adverse impacts from tariffs, sanctions, or other forms of economic coercion. The company’s focus remains on leveraging domestic incentives to strengthen its manufacturing footprint and mitigate supply chain vulnerabilities, rather than navigating external trade barriers or sanctions regimes.
+",0,0,0,0,0,1,1
+Microsoft (MSFT),2023,Q1,Not affected.,0,0,0,0,0,0,0
+Microsoft (MSFT),2023,Q2,Not affected.,0,0,0,0,0,0,0
+Microsoft (MSFT),2023,Q4,Not affected.,0,0,0,0,0,0,0
+Nvidia (NVDA),2023,Q1,Not affected.,0,0,0,0,0,0,0
+Nvidia (NVDA),2023,Q2,Not affected.,0,0,0,0,0,0,0
+Nvidia (NVDA),2023,Q3,"
+--- Part 1 ---
+NVIDIA’s Q3 2023 earnings call highlighted the impact of U.S. export controls on its business, specifically the restrictions imposed on the export of its A100 and H‑100 GPU products to China and to certain systems or entities within China. The company noted that these new export controls “impacted third‑quarter revenue, largely offset by sales of alternative products into China.” This indicates that the firm had to adjust its sales mix and pricing strategy in response to the regulatory constraints, and that revenue from its flagship data‑center GPUs was partially curtailed.
+
+The export controls also contributed to a broader softening of demand in the Chinese market, a trend the company expects to continue into the current quarter. While NVIDIA’s data‑center revenue grew 1 % sequentially and 31 % year‑on‑year, the growth was “in the face of macroeconomic challenges new export controls and lingering supply chain disruptions.” The firm’s ability to ship alternative GPU models into China helped mitigate the revenue hit, but the overall effect was a measurable reduction in sales volume and a shift in the product mix.
+
+Beyond the export‑control issue, the call did not reference tariffs, sanctions, boycotts, investment screening, or subsidies to onshore or friendshore production. NVIDIA’s discussion of the export controls is the sole instance of a geoeconomic policy affecting its operations, and it is the only policy that directly influenced the company’s revenue, supply chain, and market strategy during the quarter.
+
+In summary, NVIDIA is affected by U.S. export controls that limit the sale of its high‑performance GPUs to China, leading to revenue offsets, a softer Chinese market, and a need to pivot to alternative products. No other geoeconomic pressures were identified in the call.
+
+--- Part 4 ---
+NVIDIA’s earnings call highlighted the company’s navigation of U.S. export‑control regulations, specifically the “clear test” that governs the A800 GPU. Executives emphasized that the hardware is designed to meet these controls, preventing reprogramming that would exceed the permitted capabilities. This compliance requirement directly shapes product design, supply‑chain decisions, and customer eligibility, especially for customers in jurisdictions subject to U.S. export restrictions. The firm’s focus on ensuring that its high‑performance networking and AI accelerators remain compliant underscores the broader geoeconomic pressure exerted by export controls. No other geoeconomic policies—tariffs, sanctions, boycotts, investment screening, or subsidies for onshoring/friendshoring—were discussed. Consequently, NVIDIA’s primary geoeconomic exposure in this call stems from export‑control compliance, which influences its product architecture, market reach, and regulatory risk management.
+",0,0,1,0,0,0,1
+Nvidia (NVDA),2023,Q4,Not affected.,0,0,0,0,0,0,0
+Alphabet (GOOGL),2023,Q2,Not affected.,0,0,0,0,0,0,0
+Alphabet (GOOGL),2023,Q4,Not affected.,0,0,0,0,0,0,0
+Amazon (AMZN),2023,Q1,Not affected.,0,0,0,0,0,0,0
+Amazon (AMZN),2023,Q2,Not affected.,0,0,0,0,0,0,0
+Amazon (AMZN),2023,Q3,Not affected.,0,0,0,0,0,0,0
+Amazon (AMZN),2023,Q4,Not affected.,0,0,0,0,0,0,0
+Tesla (TSLA),2023,Q2,Not affected.,0,0,0,0,0,1,1
+Tesla (TSLA),2023,Q3,Not affected.,0,0,0,0,0,0,0
+Tesla (TSLA),2023,Q4,"
+--- Part 1 ---
+Tesla’s Q4 2023 earnings call highlights that the company’s cost structure is influenced by changes in import tariffs, which the CFO explicitly cites as an “out‑of‑control” factor affecting vehicle margins. While the discussion does not detail specific tariff rates or affected components, the acknowledgment signals that tariff fluctuations are a material risk for Tesla’s supply chain and pricing strategy. No other geoeconomic pressures—such as sanctions, export controls, boycotts, investment screening, or subsidies aimed at onshoring or friendshoring production—are mentioned or implied in the transcript. The company does reference the Inflation Reduction Act (IRA) buyer credit, but this is a consumer‑side incentive rather than a subsidy tied to manufacturing location, and therefore does not fall under the defined “geo_subsidies_any” category. Consequently, Tesla’s exposure to geoeconomic policy is limited to tariff‑related cost volatility, with no indication of impacts from the other listed policy types.
+",1,0,0,0,0,0,1
+Broadcom (AVGO),2023,Q1,"
+--- Part 2 ---
+Broadcom’s earnings call highlights that the company’s only exposure to geoeconomic policy is the regulatory review of its pending acquisition of VMware.  The firm has received legal merger clearance in Brazil, South Africa and Canada, and foreign‑investment‑control clearance in Germany, France, Austria, Denmark, Italy and New Zealand.  These approvals are part of the investment‑screening process that government agencies use to vet large cross‑border transactions for national‑security or public‑interest concerns.  Broadcom acknowledges that the review timeline is likely to be extended in other key regions, which could delay the closing of the deal.  The company therefore expects the transaction to close within fiscal 2023, but it remains mindful that investment‑screening decisions could affect the timing and potentially the terms of the merger.  No tariffs, sanctions, export controls, boycotts, or subsidies are discussed, so Broadcom’s exposure to geoeconomic pressure is limited to the investment‑screening process surrounding the VMware acquisition.
+",0,0,0,0,1,0,1
+Broadcom (AVGO),2023,Q2,"
+--- Part 1 ---
+Broadcom’s Q2 2023 earnings call reveals that the company is currently navigating a significant geoeconomic pressure in the form of investment screening, tied to its pending acquisition of VMware. The management team highlighted that they have secured legal merger clearance in several key markets—Australia, Brazil, Canada, South Africa, and Taiwan—and have obtained foreign investment control clearance in all necessary jurisdictions. This indicates that Broadcom is subject to the regulatory review processes that evaluate foreign investments for national security and public interest considerations.
+
+The impact of this investment screening is multifaceted. First, the need to satisfy clearance requirements in multiple countries introduces a layer of uncertainty around the timing of the VMware deal. Delays in obtaining approvals can postpone the completion of the acquisition, potentially affecting Broadcom’s strategic plans for expanding its software portfolio and accelerating its AI infrastructure offerings. Second, the regulatory process can increase transaction costs, as the company must allocate resources to legal, compliance, and advisory services to meet the diverse requirements of each jurisdiction. Third, the scrutiny may influence the terms of the deal, including pricing, integration timelines, and post-merger operational arrangements, as regulators may impose conditions to mitigate perceived risks.
+
+Beyond the acquisition, the company’s broader business operations appear largely insulated from other geoeconomic pressures such as tariffs, sanctions, export controls, boycotts, or subsidies to onshore/friendshore production. No references were made to import taxes, trade restrictions, or government incentives aimed at reshoring or friendshoring. Consequently, the only geoeconomic factor explicitly affecting Broadcom’s business environment during this call is the investment screening associated with the VMware transaction.
+
+In summary, Broadcom’s exposure to geoeconomic policy is limited to the regulatory approvals required for its VMware acquisition. The company’s ability to complete the deal on schedule and at the desired terms hinges on navigating these investment screening processes across multiple jurisdictions. No other geoeconomic pressures were discussed in the call.
+",0,0,0,0,1,0,1
+Broadcom (AVGO),2023,Q3,"
+--- Part 2 ---
+The only geoeconomic policy that Broadcom discusses in this portion of the earnings call is the regulatory review required for its pending acquisition of VMware, which falls under the umbrella of investment screening. Broadcom reports that it has received legal merger clearance in Australia, Brazil, Canada, the European Union, Israel, South Africa, Taiwan, and the United Kingdom, and has obtained foreign‑investment‑control clearance in all necessary jurisdictions. In the United States, the Hart‑Scott‑Rodino pre‑merger waiting period has expired and no legal impediment remains under U.S. merger regulations. The company is still working constructively with regulators in a few other jurisdictions and expects to secure the remaining approvals before October 30, 2023, the anticipated closing date.
+
+Because the acquisition is subject to this investment‑screening process, Broadcom’s ability to complete the transaction—and therefore its projected revenue, earnings, and integration plans—depends on the timely approval of these regulatory reviews. Delays or denials could postpone the closing, alter the financial terms, or require additional compliance measures, potentially affecting the company’s short‑term cash flow and long‑term strategic positioning. No tariffs, sanctions, export controls, boycotts, or subsidies to onshore or friendshore production are mentioned, so Broadcom’s exposure to other forms of geoeconomic pressure is not evident in this transcript. Thus, the firm’s geoeconomic exposure in this call is limited to the investment‑screening requirements surrounding the VMware acquisition.
+",0,0,0,0,1,0,1
+Broadcom (AVGO),2023,Q4,Not affected.,0,0,1,0,0,0,1
+Salesforce (CRM),2023,Q1,Not affected.,0,0,0,0,0,0,0
+Salesforce (CRM),2023,Q2,Not affected.,0,0,0,0,0,0,0
+Salesforce (CRM),2023,Q3,Not affected.,0,0,0,0,0,0,0
+Salesforce (CRM),2023,Q4,Not affected.,0,0,0,0,0,0,0
+Cisco (CSCO),2023,Q1,Not affected.,0,0,0,0,0,0,0
+Cisco (CSCO),2023,Q2,Not affected.,0,0,0,0,0,0,0
+Cisco (CSCO),2023,Q3,Not affected.,0,0,0,0,0,0,0
+Cisco (CSCO),2023,Q4,Not affected.,0,0,0,0,0,0,0
+Oracle (ORCL),2023,Q1,"
+--- Part 1 ---
+Oracle’s first‑quarter 2023 earnings call highlighted a single geoeconomic impact: the company’s exit from the Russian market.  While the call did not explicitly name the policy, the statement that “since we no longer operate in Russia, this negatively affected revenue by over one point of growth” is an indirect reference to the sanctions regime that has forced many U.S. firms to divest from Russia.  The loss of Russian operations reduced Oracle’s constant‑currency revenue growth, pushing the overall growth rate below what it would have been had the business remained active there.  
+
+No other geoeconomic pressures were discussed.  Oracle made no mention of tariffs, export controls, boycotts, investment screening, or subsidies to onshore or friendshore production.  Currency headwinds were noted, but these were framed as market volatility rather than policy‑driven restrictions.  Consequently, the company’s exposure to geoeconomic policy is limited to the sanctions‑induced divestiture from Russia, with no other policy‑related impacts reported in the call.
+",0,1,0,0,0,0,1
+Oracle (ORCL),2023,Q2,"
+--- Part 1 ---
+Oracle’s earnings call indicates that the company is affected by sanctions, specifically the U.S. and allied sanctions that led Oracle to cease operations in Russia. The CEO explicitly notes that “we no longer operate in Russia, causing total revenue growth to be negatively affected by over 1% of growth over last year.” This statement reflects a direct impact on Oracle’s revenue and growth trajectory due to the sanctions regime. No other geoeconomic policies—tariffs, export controls, boycotts, investment screening, or subsidies for onshoring/friendshoring—were mentioned or implied in the discussion. Therefore, Oracle’s exposure to geoeconomic pressure in this quarter is limited to the sanctions that forced its exit from the Russian market, which has had a measurable, albeit modest, negative effect on its revenue growth. All other geoeconomic policy areas appear to be non‑issues for Oracle at this time.
+",0,1,0,0,0,0,1
+Oracle (ORCL),2023,Q3,"
+--- Part 2 ---
+The company’s earnings call highlighted a direct impact from U.S. sanctions that led to its exit from the Russian market. Executives noted that the decision to cease operations in Russia has reduced organic revenue growth by approximately 1 % relative to the prior year, underscoring the tangible financial effect of the sanctions regime. No other geoeconomic pressures—such as import tariffs, export controls, boycotts, investment screening, or subsidies for onshoring or friendshoring—were referenced or implied in the discussion. Consequently, the firm’s exposure to geoeconomic policy is limited to the sanctions that forced the Russian exit, with no additional policy-driven constraints or opportunities mentioned during the call.
+",0,1,0,0,0,0,1
